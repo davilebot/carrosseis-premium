@@ -1,6 +1,6 @@
 ---
 name: carrosseis-premium
-version: "4.3.0"
+version: "4.3.1"
 description: >
   Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
   ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
@@ -54,7 +54,7 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 
 **IA VISUAL COM INTENÇÃO.** Na capa, o absurdo pode ser tão evidente que vira conceito. No miolo, alternar suportes e preferir imagens naturais ou documentais quando a ideia pede realidade. Uma sequência de pessoas, objetos e cenários gerados com o mesmo acabamento artificial fica previsível, mesmo quando cada imagem é bonita.
 
-**IDENTIFICAÇÃO VISUAL É REQUISITO.** Em slides de identificação, mostrar a ferramenta, objeto ou situação que o leitor de fato reconhece: agenda na tela, células de uma planilha, conversa ou registro de CRM. Metáfora genérica de escritório não basta. Quando o usuário especificar uma imagem, ferramenta ou cena, registre como visual obrigatório e obtenha o material antes de finalizar. Não trocar Google Agenda por “30” tipográfico, nem planilha por pastas com laço. Sem a fonte necessária, apresente a pendência e peça uma decisão concreta; não entregue uma substituição como se cumprisse o pedido. Leia o contrato visual em `playbooks/05-direcao-de-arte.md`.
+**IMAGEM ESPECÍFICA, IDENTIFICÁVEL E DESEJÁVEL DE OLHAR.** A imagem deve conectar a copy a uma situação que o público reconhece e provocar interesse, humor, alívio, tensão ou surpresa. Não basta representar o substantivo do título. Google Agenda é uma possibilidade, não uma obrigação: captura, foto, diagrama ou imagem gerada podem funcionar quando têm especificidade e força visual. Pastas genéricas perdem o mecanismo que um fluxo “CRM → responsável → próximo passo” consegue mostrar. Evitar a solução óbvia e indiferente. Leia os exemplos e a seleção visual em `playbooks/05-direcao-de-arte.md`.
 
 **UMA IMAGEM PODE SUSTENTAR A TELA.** Considere foto ou objeto único integrado ao centro da composição, com volume, sombra de contato e interação pontual com a tipografia. Pode ser imagem real, de banco ou gerada, inclusive sem absurdo extremo. Preserve a leitura e varie o suporte entre telas. Não transforme cada frase em um ícone nem cada item em um check.
 
@@ -82,7 +82,7 @@ Para a cronologia completa das decisões do Mercado Livre, inclusive a copy orig
 
 ## 5. Contrato da saída
 
-Para **gerar**: indicar tipo, gancho escolhido, argumento, quadro por slide (copy + função + visual + origem do visual + respiro previsto), o que o público descobre em cada passo. Antes da arte, registrar visuais obrigatórios e verificar quais fontes foram obtidas. Na entrega, conferir se cada visual obrigatório aparece de fato no slide correspondente. Produzir imagens quando solicitadas; **entregar um arquivo individual por slide** sempre que houver arte. Uma montagem geral pode ser prévia adicional, nunca a única entrega. Não acrescentar justificativas longas dentro da arte final.
+Para **gerar**: indicar tipo, gancho escolhido, argumento, quadro por slide (copy + função + visual + origem do visual + respiro previsto), o que o público descobre em cada passo. Antes da arte, registrar a situação reconhecível, o detalhe que provoca interesse, o sentimento esperado e a origem do visual. Na entrega, conferir se a imagem realiza essa intenção e se evita os atalhos decorativos proibidos. Produzir imagens quando solicitadas; **entregar um arquivo individual por slide** sempre que houver arte. Uma montagem geral pode ser prévia adicional, nunca a única entrega. Não acrescentar justificativas longas dentro da arte final.
 
 Para **auditar**: usar tabela com `slide / trecho atual / por que não funciona / substituição pronta / motivo da melhora / prioridade`. Crítica sem substituição é incompleta.
 
@@ -105,7 +105,7 @@ Para **aprender**: registrar `antes -> feedback -> depois -> por que -> o que ge
 - Encher todas as telas até a borda ou reduzir margens para acomodar uma copy longa.
 - Repetir divisórias finas, riscos e sublinhados sem função de leitura.
 - Gerar uma cena com acabamento de IA para cada slide, sem variar material e intensidade.
-- Usar cartões de interface inventada, checks teal e dashboards genéricos como substitutos automáticos de imagem.
+- Usar checks, checklists ilustrativos, bullets com ícones e painéis genéricos como decoração automática. Diagramas que mostram relações específicas do tema continuam válidos.
 - Tratar referências como templates que exigem copiar o mesmo objeto.
 - Confundir um rascunho de copy com uma peça pronta para publicação ou declarar verificação que não ocorreu.
 

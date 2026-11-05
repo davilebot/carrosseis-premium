@@ -68,6 +68,12 @@ Outras telas: sem alteração.
 
 **Falha da orientação anterior:** permitia substituir uma captura indisponível por foto, objeto ou tipografia sem decisão do usuário. O próprio exemplo de pastas favoreceu uma metáfora genérica de escritório. As propostas da auditoria 9 continuam sendo propostas, não aprovações; esta crítica é posterior e prevalece.
 
-**Correção obrigatória no caso:** slide 2 recebe captura reconhecível do Google Agenda, mostrando agenda/horário livre pertinente; slide 3 recebe planilha real com células e organização visíveis. A frase “30 minutos” pode permanecer como apoio, nunca como único visual substituindo a agenda. Pastas com laço não cumprem o requisito de planilha. Capa e almoço conservam o status positivo anterior. A troca dos demais visuais ainda precisa ser avaliada no resultado; não declarar aprovada a opção de pastas da versão anterior.
+**Tentativa seguinte do agente, depois corrigida pelo usuário:** exigir captura real de Google Agenda e planilha. Essa regra foi publicada na 4.3 e não chegou a ser aplicada à instalação local antes da correção. O usuário esclareceu que a técnica não era obrigatória; o foco era reconhecimento, especificidade, interesse e sentimento. Não aplicar a exigência de captura como conclusão deste caso.
 
-**Condição de entrega:** fonte necessária ausente significa pendência visível e pedido concreto de arquivo ou decisão. Avançar no restante sem chamar o conjunto de concluído. Quando a fonte for obtida, aplicá-la e conferir o reconhecimento no slide em tamanho de celular. Mudar apenas o texto da skill não comprova que esse resultado visual foi alcançado.
+## Auditoria 11: imagem específica, interessante e conectada
+
+**Esclarecimento do usuário:** a imagem precisa fazer a pessoa sentir “é isso mesmo”. Conectar-se ao texto é necessário, mas ilustrar o óbvio sem apelo visual gera indiferença. Google Agenda era um exemplo possível. IA absurda, IA discreta, stock, captura e diagrama continuam disponíveis.
+
+**Correção sobre processos:** o fluxo anterior com CRM, responsável e próximo passo era mais específico e identificável que as pastas. A rejeição aos checks/bullets automáticos não significava rejeição de todo diagrama ou representação de processo. Preservar o mecanismo útil e melhorar sua presença visual.
+
+**Regra contextual final:** selecionar pela combinação de situação reconhecível, detalhe específico, emoção e interesse visual. Um recorte real sem foco pode falhar; um render bonito e genérico também. Não impor literalidade nem transformar tudo em surrealismo. Checks, bullets ilustrativos e checklists decorativos não devem voltar como atalho. A capa e o almoço mantêm os acertos anteriores. As novas composições ainda precisam ser avaliadas como arte; o registro textual não equivale a aprovação.

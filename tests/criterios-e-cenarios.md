@@ -147,17 +147,17 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 
 **Esperado:** diagnosticar densidade e competição, retirar decoração e redistribuir apoio/fecho quando necessário; propor telas de pausa. Se a copy for aprovada, identificar qualquer corte ou divisão como proposta editorial. **Falha:** declarar que a margem resolve a composição inteira ou diminuir todas as fontes para caber.
 
-## T23. Ferramenta citada exige fonte concreta
+## T23. Agenda reconhecível sem impor uma única técnica
 
-**Entrada:** “Ilustre a felicidade de uma reunião cancelada com Google Agenda. Nenhuma captura foi fornecida.”
+**Entrada:** “A imagem de reunião cancelada precisa gerar identificação e interesse. Google Agenda é um exemplo, não obrigação.”
 
-**Esperado:** obter e inspecionar uma captura demonstrativa pertinente quando houver acesso autorizado. Se não conseguir, manter o slide pendente e pedir o arquivo ou aprovação de alternativa específica. Não acessar agenda privada apenas para conseguir imagem. **Falha:** finalizar com card preto, número “30”, objeto ou texto no lugar da captura pedida, mesmo que a alternativa seja bonita ou conste no storyboard.
+**Esperado:** propor uma cena ou relação específica que faça sentir o horário recuperado e explicar qual detalhe prende o olhar. Captura real, foto ou metáfora precisa podem funcionar. Se optar por captura, obtê-la e inspecioná-la. **Falha:** obrigar screenshot, finalizar com “30” isolado ou aceitar um calendário genérico só porque ilustra agenda.
 
-## T24. Checklist não é ilustração automática
+## T24. Checklist decorativo versus mecanismo específico
 
-**Entrada:** “Você comemora quando alguém resolve um problema sem te chamar. Apoio: sem aprovação, sem reunião e sem 14 mensagens. Quero uma peça visual.”
+**Entrada:** “O fluxo CRM → responsável → próximo passo era mais identificável que as pastas. O problema eram os checks automáticos.”
 
-**Esperado:** propor foto/objeto pertinente, como um celular real em repouso, e integrar a copy com hierarquia. Checklist só se a tarefa for realmente ensinar uma lista verificável. **Falha:** três checks teal como única decisão visual ou outra mini-interface que apenas repete as frases.
+**Esperado:** recuperar o mecanismo com uma composição específica e visualmente interessante; remover checks/bullets decorativos sem apagar etapas que explicam a operação. **Falha:** proibir todo diagrama, substituir por pastas ou entregar três checks teal como única decisão visual.
 
 ## T25. Objeto gerado discreto e composição central
 
@@ -165,14 +165,14 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 
 **Esperado:** um objeto/foto principal com sombra de contato e sobreposição pontual, mantendo as palavras legíveis e a área segura. Justificar por que esse objeto carrega a ideia; variar o suporte nos vizinhos. **Falha:** proibir toda IA moderada, gerar uma cena inteira por padrão, espalhar ícones ou repetir essa mesma composição em todas as telas.
 
-## T26. Reconhecimento literal após revisão malsucedida
+## T26. A imagem precisa fazer mais que nomear o assunto
 
-**Entrada:** “Pedi Google Agenda e uma planilha reconhecível. Você entregou ‘30’ grande e pastas com laço. Não resolveu.”
+**Entrada:** “Planilha organizada virou pastas com laço. Ficou ligado ao texto, mas genérico e sem identificação suficiente.”
 
-**Esperado:** identificar que os referentes obrigatórios estão ausentes, obter e aplicar as capturas; rejeitar como final qualquer nova metáfora genérica. Se faltarem fontes, pedir arquivo/decisão e manter os alvos pendentes. Preservar os slides já considerados bons. **Falha:** apenas aumentar a lista de tipos de imagem, trocar pastas por outro objeto ou chamar as telas textuais de minimalismo aprovado.
+**Esperado:** mostrar uma situação ou mecanismo familiar com detalhe específico e apelo visual; comparar pelo menos uma opção literal e uma metáfora precisa antes de escolher. Não exigir usar ambas na arte. **Falha:** escolher outra pasta mais bonita ou dizer apenas “use uma imagem mais específica/sexy” sem mostrar a ideia.
 
-## T27. Fonte encontrada não é requisito cumprido
+## T27. Identificação e força visual juntas
 
-**Entrada:** “Você encontrou a página oficial do Google Agenda, mas a exportação do slide só tem um número e nenhum calendário.”
+**Entrada:** “A captura da agenda é real, mas está pequena, vazia e sem nenhum ponto de interesse. Já um render bonito de pastas não tem relação específica com a experiência.”
 
-**Esperado:** reprovar a exportação; o requisito só passa com a captura realmente obtida e aplicada, reconhecível em tamanho de celular. **Falha:** marcar como pronto porque existe URL no storyboard, porque foi desenhado um logo ou porque o texto diz ‘reunião cancelada’.
+**Esperado:** reprovar ambas as soluções como estão, por razões diferentes. Trabalhar foco, recorte, relação temporal, escala ou humor na cena pertinente. Conferir o resultado no celular. **Falha:** aprovar só pela origem real, só pela beleza do render ou só pela existência de uma imagem.

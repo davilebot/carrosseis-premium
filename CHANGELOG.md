@@ -1,12 +1,12 @@
 # Changelog
 
-## 4.3.0
+## 4.3.1
 
-- Fechada a alternativa automática que permitia finalizar slides sem a captura pedida.
-- Referente visual específico e reconhecimento da situação passam a ser critérios de entrega.
-- Busca, obtenção, aplicação e conferência das imagens exigidas ficam registradas por slide.
-- Evolução do caso adulto nos negócios: “30” tipográfico e pastas com laço não resolveram identificação com agenda/planilha.
-- Exemplos de pastas genéricas revistos; testes de ausência de fonte e substituição indevida.
+- Corrigida a interpretação da 4.3: captura real não é obrigatória; o critério é imagem específica, identificável, interessante e conectada à copy.
+- Diagrama útil de CRM, responsável e próximo passo preservado como exemplo positivo de especificidade.
+- Checks, bullets ilustrativos e checklists decorativos automáticos permanecem proibidos como solução visual.
+- Seleção avalia situação familiar, detalhe específico, sentimento e presença visual em conjunto.
+- Registrada a sequência de feedback, inclusive a exigência equivocada de captura da 4.3, que foi publicada no Git sem chegar à instalação local.
 
 ## 4.2.0
 

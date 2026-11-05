@@ -84,3 +84,13 @@ Outras telas: sem alteração.
 **Feedback posterior:** comparação de “5 mentiras” com Mercado Livre. O usuário pediu mais imagens, exagero, quebra de padrão, cor, acentos, tipografia forte e capricho. Gostou mais da solução específica das abas com Nome/Modelo de negócio/Projeção; novembro tinha boa ideia e execução ruim; delegação também foi mal executada.
 
 **Correção de direção:** não limitar IA à capa e a uma ruptura; não converter toda crítica de IA em redução de imagens ou slides tipográficos. Repetição genérica deve ser corrigida com melhores conceitos, fontes, escala e composição. O benchmark demonstra nível de energia e imagem participando do conteúdo; não restabelece os KPIs rejeitados ou invalida a margem de texto pedida anteriormente. Ver `examples/calibracao-impacto.md` para comparações e propostas concretas, ainda não aprovadas como arte.
+
+## Auditoria 13: a 4.4 foi lida e a execução ainda falhou
+
+Foi inspecionado o chat “Auditar carrossel de pequenas vitórias” e seus arquivos locais de direção e prompts. O agente leu a versão 4.4 e a calibração Mercado Livre, gerou três imagens e compôs mensagem, comparação temporal e fluxo em HTML/CSS. Portanto, este caso não pode ser explicado como versão desatualizada ou ausência de leitura da referência.
+
+O usuário rejeitou nós como metáfora de solução e café como representação da empresa funcionando durante a folga. Considerou aprovação, duração e automação um pouco melhores, mas ainda pobres, chapadas e provisórias. Pediu proporções mais absurdas, assimetria, escala, profundidade, emoção e liberdade de imagem nas bordas em todo o carrossel. O exemplo de WhatsApp com acabamento não significa obrigação de usar screenshot; a preferência neste caso continua por uma cena mais radical.
+
+Os prompts de nós e café eram cenas naturais/proporcionais; o da capa pedia objeto inteiro e espaço confortável. A falha estava também na escolha e descrição da imagem, não apenas na montagem final. A revisão exige conferir se prompt e ferramenta materializam a direção desejada, distingue experiência emocional de tutorial e não aceita retângulos provisórios como arte protagonista. Ver `playbooks/08-execucao-visual.md`.
+
+**Teste da revisão 4.5:** foi gerado um asset de relógio monumental se abrindo sobre uma mesa de reunião em miniatura, pessoas saindo e parte do tempo liberada, com proporção e geometria impossíveis. Foi montado um estudo separado do slide 4 com a copy preservada, imagem atravessando as laterais e texto em camadas. A conferência de limites textuais passou. O teste foi inspecionado pelo agente, mas a escolha conceitual e o acabamento NÃO foram aprovados pelo usuário. Não transformar esse relógio em novo template universal nem afirmar validação do carrossel inteiro.

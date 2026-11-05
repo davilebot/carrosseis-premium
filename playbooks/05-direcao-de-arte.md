@@ -62,7 +62,7 @@ No corpo, mantenha distância perceptível entre grupos: título, apoio, cena e 
 
 **Exemplo observado:** na capa “5 coisas que você precisa parar de fazer se quiser ter paz empreendendo”, o título gigante, a pessoa, o spoiler e a assinatura competem até as bordas. Uma solução é manter a promessa, tirar o spoiler da capa, dar área própria à imagem e recuar numeração/assinatura para dentro da caixa segura. No slide “Confundir agenda cheia com dia produtivo”, a linha teal não cria respiro: retirar a linha e reduzir a massa do calendário abre espaço real. No slide dos dominós, encurtar o texto de apoio ou deslocá-lo para outra tela deixa a cena respirar sem reduzir a margem.
 
-**Exceção consciente:** caixa, pessoa ou objeto podem atravessar a borda em capa/ruptura. Texto legível nunca atravessa. Não usar “é capa” como motivo para cortar a headline.
+**Imagem livre em todo slide:** caixa, pessoa, cenário ou objeto podem atravessar qualquer borda quando a composição pede, inclusive no miolo. A área segura não é um limite para imagens. Proteger o texto editorial e os rótulos necessários à compreensão.
 
 ## Divisórias e gestos gráficos
 
@@ -92,6 +92,8 @@ A tipografia da primeira capa de teste pareceu adequada para aquele conteúdo, m
 | Mudanca de critério | Grafico aleatório | Balança com dois lados nomeados | Objeto 3D / diagrama |
 | Perda de tempo | Relogio decorativo | 12 abas e tarefas repetidas | Cena reconhecível / UI |
 | Surpresa de 30% | Número isolado sem contexto | "30%" grande com caixa e fragmento de noticia legível | Dado + objeto contextual |
+
+Antes de escolher assets, ler `playbooks/08-execucao-visual.md`: execução radical, caixa de texto separada da cena e rejeição de placeholders.
 
 ## Origem das imagens e aparência de IA
 

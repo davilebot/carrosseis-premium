@@ -20,7 +20,7 @@ Fontes da Echo: Bricolage Grotesque e Inter. Para a marca pessoal, experimentar 
 
 **Exemplo de uso da paleta:** um case do Mercado Livre pode ter caixas amarelas e camisa amarela da marca analisada. O fundo, a hierarquia e os acentos gerais permanecem do criador. Usar teal com presença em palavras, números, materiais ou áreas relevantes. Variar escala e composição; não depender de sublinhados nem restringir cor a detalhes minúsculos.
 
-**Margens obrigatórias:** todo texto, incluindo numeração e assinatura, fica a pelo menos 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Em 1092 × 1440px: arredondar para cima, 110px laterais e 116px verticais. Não reduzir essa área segura para caber copy longa. Dar distância entre blocos sem transformar espaço negativo em obrigação de deixar telas passivas. Objetos podem sangrar em capa/ruptura; texto legível não.
+**Margens obrigatórias:** todo texto, incluindo numeração e assinatura, fica a pelo menos 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Em 1092 × 1440px: arredondar para cima, 110px laterais e 116px verticais. Não reduzir essa área segura para caber copy longa. Dar distância entre blocos sem transformar espaço negativo em obrigação de deixar telas passivas. Imagens, objetos e cenários podem ocupar e atravessar o canvas inteiro em qualquer slide; a margem não restringe a imagem. Texto editorial permanece na área segura.
 
 ## Diferenciar-se de Echo
 

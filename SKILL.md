@@ -1,6 +1,6 @@
 ---
 name: carrosseis-premium
-version: "4.4.0"
+version: "4.5.0"
 description: >
   Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
   ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
@@ -19,6 +19,8 @@ description: >
 - `revisar slide 4`: correções locais; NUNCA regenerar slides 1-3 e 5+ por comodidade.
 - `comparar`: versões A/B -> ganhos, perdas, recursos preserváveis e melhor síntese.
 - `aprender`: feedback -> registrar exemplo ruim/bom, motivo e regra contextual; não impor ao futuro como template obrigatório.
+
+Para qualquer pedido de arte no estilo Davi, leia `playbooks/08-execucao-visual.md` antes de escolher conceitos, fontes e ferramentas. A caixa segura protege o texto; a imagem usa o canvas inteiro e pode sangrar em qualquer slide.
 
 Se a pessoa solicitar apenas copy, não gere arte. Se solicitar arte, produza arte, não apenas descrever uma ideia. Entregue um arquivo individual por slide; colagem geral é apenas prévia.
 
@@ -52,11 +54,11 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 
 **BORDAS COM REGRA, CORPO COM DIREÇÃO.** Todo texto, inclusive numeração e assinatura, deve ficar a no mínimo 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Verifique no arquivo final. No corpo, separe grupos; espaço vazio organiza a hierarquia sem obrigar telas vazias ou objetos pequenos. A imagem pode ocupar grande parte da tela e sangrar; a caixa segura protege o texto. Não preencher espaço livre com selo, linha, card, número ou legenda só porque cabe.
 
-**IA VISUAL COM INTENÇÃO E AMBIÇÃO.** Capa com imagem protagonista, conceito forte e exagero quando adequado. O miolo também pode ter surrealismo e imagens expressivas. O problema é repetição genérica e acabamento automático, não quantidade de imagens. Alternar fontes quando isso melhora a peça, sem impor cota de IA ou converter slides em texto para cumprir alternância.
+**IA VISUAL COM INTENÇÃO E AMBIÇÃO.** Capa com imagem protagonista, conceito forte e exagero quando adequado. Nas imagens conceituais do miolo, usar também proporções deliberadamente absurdas, assimetria e deformações que tornem o argumento visível. O problema é repetição genérica e acabamento automático, não quantidade de imagens. Alternar fontes quando isso melhora a peça, sem impor cota de IA ou converter slides em texto para cumprir alternância.
 
 **IMAGEM ESPECÍFICA, IDENTIFICÁVEL E DESEJÁVEL DE OLHAR.** A imagem deve conectar a copy a uma situação que o público reconhece e provocar interesse, humor, alívio, tensão ou surpresa. Não basta representar o substantivo do título. Google Agenda é uma possibilidade, não uma obrigação: captura, foto, diagrama ou imagem gerada podem funcionar quando têm especificidade e força visual. Pastas genéricas perdem o mecanismo que um fluxo “CRM → responsável → próximo passo” consegue mostrar. Evitar a solução óbvia e indiferente. Leia os exemplos e a seleção visual em `playbooks/05-direcao-de-arte.md`.
 
-**UMA IMAGEM PODE SUSTENTAR A TELA.** Considere foto ou objeto único integrado ao centro da composição, com volume, sombra de contato e interação pontual com a tipografia. Pode ser imagem real, de banco ou gerada, inclusive sem absurdo extremo. Preserve a leitura e varie o suporte entre telas. Não transforme cada frase em um ícone nem cada item em um check.
+**UMA IMAGEM PODE SUSTENTAR A TELA.** Considere foto ou objeto único integrado ao centro da composição, com volume, sombra de contato e interação pontual com a tipografia. Pode ser imagem real, de banco ou gerada. Para a direção radical pedida aqui, escolher exagero concreto de escala, proporção ou perspectiva nas cenas conceituais; não neutralizar tudo com composições simétricas e proporcionais. Preserve a leitura e varie o suporte entre telas. Não transforme cada frase em um ícone nem cada item em um check.
 
 **LINHAS TÊM FUNÇÃO.** Não inserir as retas finas entre palavras, tópicos e seções como assinatura automática de “design premium”. Use linha apenas quando ela ajuda a comparar, medir, conectar ou orientar a leitura. O slide 4 aprovado do Mercado Livre é uma escolha daquele caso, não um componente obrigatório.
 

@@ -194,3 +194,21 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 **Entrada:** “A capa tem conceito, mas o objeto é pequeno, a fonte tímida e o teal aparece num detalhe. Compare com o Mercado Livre.”
 
 **Esperado:** inspecionar a referência visual, recompor com protagonista, escala tipográfica e acento perceptíveis, mantendo texto na área segura. Comparar a arte real, não apenas o plano. **Falha:** concluir que há capricho porque respeita margens; reduzir ainda mais os elementos para criar vazio.
+
+## T31. Margem de texto não vira margem de imagem
+
+**Entrada:** “Texto protegido, mas imagem pode atravessar qualquer borda também nos slides 2–6.”
+
+**Esperado:** caixa segura aplicada aos blocos textuais; cena em camada independente usando o canvas e crop/sangria deliberados. **Falha:** aplicar padding global à imagem ou colocar toda cena numa faixa retangular só porque o título tem margem.
+
+## T32. Radicar a imagem com uma transformação de sentido
+
+**Entrada:** “A corda com nós não faz sentir problema resolvido; o café não faz sentir minha empresa funcionar sem mim. Quero proporções absurdas.”
+
+**Esperado:** mudar conceito e ação, não só textura; explicitar assimetria, contraste de escala ou geometria impossível conectados à conquista, gerar o asset quando o pedido for arte e conferir seu resultado. **Falha:** reutilizar café/nós com mais saturação, limitar radicalidade à capa ou escrever ‘surreal’ num prompt que também exige tudo proporcional e inteiramente visível.
+
+## T33. Não apresentar wireframe como protagonista
+
+**Entrada:** “Reunião em 18 minutos virou dois blocos; automação virou três nós chapados. É um carrossel emocional com direção radical.”
+
+**Esperado:** produzir uma cena ou objeto expressivo que faça sentir a conquista. Se usar interface, trabalhar representação reconhecível, profundidade e hierarquia; um diagrama só passa se ensino do mecanismo for a função solicitada. **Falha:** engrossar contorno, acrescentar uma sombra ao retângulo e encerrar sem rever a escolha visual.

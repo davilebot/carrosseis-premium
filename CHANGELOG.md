@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.5.0
+
+- Execução real da 4.4 inspecionada: leitura da skill confirmada; falha atribuída às escolhas/prompts e ao uso de componentes simples como arte.
+- Imagem livre para ocupar e atravessar o canvas em qualquer slide; margens aplicadas ao texto.
+- Brief de imagem explicita ação, emoção, proporção absurda, assimetria e composição.
+- Distinção entre ensinar mecanismo e fazer sentir uma conquista; wireframes não substituem cenas.
+- Teste visual passa a incluir um slide de desenvolvimento, além da capa.
+
 ## 4.4.0
 
 - Reconciliadas as restrições visuais com a meta de impacto, usando Mercado Livre como benchmark de energia e integração.

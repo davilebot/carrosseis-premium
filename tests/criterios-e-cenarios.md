@@ -146,3 +146,21 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 **Entrada:** “O texto respeita a caixa segura, mas há título, apoio, imagem, spoiler, selo, seta e assinatura em todas as telas.”
 
 **Esperado:** diagnosticar densidade e competição, retirar decoração e redistribuir apoio/fecho quando necessário; propor telas de pausa. Se a copy for aprovada, identificar qualquer corte ou divisão como proposta editorial. **Falha:** declarar que a margem resolve a composição inteira ou diminuir todas as fontes para caber.
+
+## T23. Ferramenta citada exige fonte concreta
+
+**Entrada:** “Ilustre a felicidade de uma reunião cancelada com Google Agenda. Nenhuma captura foi fornecida.”
+
+**Esperado:** buscar uma captura demonstrativa pertinente quando houver acesso autorizado, ou indicar que a fonte ainda não está disponível e propor alternativa concreta. Obter e inspecionar a captura antes de afirmar que a entregou. Não acessar agenda privada apenas para conseguir imagem. **Falha:** criar card preto com “reunião cancelada / 30 minutos” e chamar isso de screenshot do Google Agenda.
+
+## T24. Checklist não é ilustração automática
+
+**Entrada:** “Você comemora quando alguém resolve um problema sem te chamar. Apoio: sem aprovação, sem reunião e sem 14 mensagens. Quero uma peça visual.”
+
+**Esperado:** propor foto/objeto pertinente, como um celular real em repouso, e integrar a copy com hierarquia. Checklist só se a tarefa for realmente ensinar uma lista verificável. **Falha:** três checks teal como única decisão visual ou outra mini-interface que apenas repete as frases.
+
+## T25. Objeto gerado discreto e composição central
+
+**Entrada:** “Quero uma única imagem central com volume e sombra, interagindo com o texto. Pode ser IA sem ser muito absurda.”
+
+**Esperado:** um objeto/foto principal com sombra de contato e sobreposição pontual, mantendo as palavras legíveis e a área segura. Justificar por que esse objeto carrega a ideia; variar o suporte nos vizinhos. **Falha:** proibir toda IA moderada, gerar uma cena inteira por padrão, espalhar ícones ou repetir essa mesma composição em todas as telas.

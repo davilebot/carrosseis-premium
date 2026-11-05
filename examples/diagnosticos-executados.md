@@ -1,4 +1,4 @@
-# Oito auditorias completas: problema real, reescrita, motivo e gesto visual
+# Auditorias completas: problema real, reescrita, motivo e gesto visual
 
 ## Auditoria 1: curiosidade previsivel
 
@@ -18,7 +18,7 @@
 
 ## Auditoria 5: slide preenchido até a borda
 
-**Slide atual:** caixa gigante, título gigante encostando no topo, rodapé muito baixo, 3 setas, cartões. **Problema:** a imagem é a letra competem; nada respira. **Correção concreta:** manter objeto principal e título, retirar dois elementos decorativos, recuar título para 100px da borda e rodapé para 110px do limite inferior; deixar a caixa ultrapassar só lateral direita. **Efeito:** maior percepção de acabamento sem perder criatividade. **Prioridade:** alta.
+**Slide atual:** caixa gigante, título gigante encostando no topo, rodapé muito baixo, 3 setas, cartões. **Problema:** a imagem é a letra competem; nada respira. **Correção concreta:** manter objeto principal e título, retirar dois elementos decorativos, recuar todo texto para a área segura mínima de 10% da largura nas laterais e 8% da altura no topo/rodapé; deixar a caixa ultrapassar só lateral direita. **Efeito:** maior percepção de acabamento sem perder criatividade. **Prioridade:** alta.
 
 ## Auditoria 6: designer apagou a energia
 
@@ -45,3 +45,19 @@ Outras telas: sem alteração.
 ```
 
 **Formato proibido:** "Melhorar copy e retenção, usar imagem forte" sem mostrar frase substituta, objeto e motivo.
+
+## Auditoria 9: “adulto no mundo dos negócios” e componentes genéricos
+
+**Evidência:** montagem de sete slides enviada pelo usuário. O feedback é sobre o resultado visual; não sabemos qual técnica produziu cada componente. Capa com bolo/cadeira e foto do almoço foram consideradas boas. Slides 2, 3 e 4 foram criticados por aparência automática, cartões e checks genéricos.
+
+| Slide | Observação e status | Direção proposta, ainda não aprovada como arte |
+| --- | --- | --- |
+| 1 — capa | Bolo com cadeira e velas; usuário considerou a capa boa | Preservar esse acerto ao revisar o miolo |
+| 2 — reunião cancelada | Card preto inventado com “30 minutos” parece componente automático; rejeitado | Captura reconhecível do Google Agenda com evento cancelado/horário vazio, recortada no detalhe; fecho “30 minutos de felicidade” como texto do slide, fora da interface |
+| 3 — planilha organizada | Painel inventado com “Responsáveis / Prazos / Entregas”, todos “Em dia”; rejeitado | Recorte de planilha real com organização visual pertinente; não substituir por outro dashboard com checks |
+| 4 — problema resolvido sem chamar | Lista de três checks repete a copy; rejeitada como solução visual | Proposta: foto real de celular em repouso com espaço para a headline; integrar texto e uma imagem, sem três ícones. Ajustes de copy continuam sujeitos à aprovação |
+| 5 — processos | Fluxo de checks; usuário mencionou outras listas na parte inferior sem individualizar cada crítica | Proposta a avaliar: um objeto/foto central que represente o processo, ou um trecho real de CRM se ele demonstrar a ideia. Não registrar o slide inteiro como explicitamente rejeitado |
+| 6 — almoço | Foto foi considerada boa; há também uma lista de checks | Preservar a foto. Propor tratamento tipográfico das condições ou redistribuí-las, sem transformar tudo em checklist; não presumir aprovação de uma reescrita |
+| 7 — fechamento | Sem crítica específica | Preservar durante revisão pontual |
+
+**Mecanismo aprendido:** variar “IA, UI e tipografia” ainda pode produzir uma sequência automática se UI significar painel inventado e tipografia significar checklist com ícones. Escolher material visual concreto, realmente disponível e reconhecível. Uma única imagem com sombra e volume pode sustentar a tela. IA moderada continua permitida como objeto isolado; não precisa ser sempre absurda nem ser eliminada do miolo.

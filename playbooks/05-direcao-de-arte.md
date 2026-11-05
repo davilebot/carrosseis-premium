@@ -89,7 +89,7 @@ A tipografia da primeira capa de teste pareceu adequada para aquele conteúdo, m
 
 Antes de gerar qualquer imagem, faça um plano simples por slide: `função visual | origem | por que esse suporte explica melhor | tratamento`. Considere foto própria, foto de banco com licença adequada, captura autêntica (com dados sensíveis removidos), documento real, UI desenhada, diagrama, tipografia e imagem gerada. A fonte é decisão de direção de arte, não uma etapa automática de geração.
 
-**Padrão para uma sequência:** reserve a IA evidente para a capa ou uma ruptura em que o absurdo seja o argumento visual. No miolo, prefira outros suportes quando a cena não precisa ser impossível. Se houver duas cenas geradas seguidas com a mesma textura de render, substitua uma por foto, interface, documento, diagrama ou uma tela tipográfica. Não usar uma pessoa genérica gerada em cada slide. Uma fotografia real de mesa, calendário, rua, escritório ou objeto pode dar autenticidade, desde que tenha relação concreta com a copy; evitar banco de imagem genérico de aperto de mãos e reuniões sorridentes.
+**Padrão para uma sequência:** concentre a IA mais evidente na capa ou numa ruptura em que o absurdo seja o argumento visual. No miolo, também cabe um objeto gerado discreto, se ele sustenta a ideia e funciona integrado à composição. Alterne com fotografia própria/de banco, capturas autênticas, documentos, diagramas úteis e tipografia. Se houver duas cenas geradas seguidas com a mesma textura de render, substitua uma por outro suporte. Não usar uma pessoa genérica gerada em cada slide. Uma fotografia real de mesa, calendário, rua, escritório ou objeto pode dar autenticidade, desde que tenha relação concreta com a copy; evitar banco de imagem genérico de aperto de mãos e reuniões sorridentes.
 
 Quando a IA for usada para uma cena plausível, peça linguagem fotográfica observável: luz coerente com o ambiente, materiais comuns, perspectiva e escala críveis, detalhes imperfeitos naturais, fundo sem brilho artificial. Inspecione mãos, rosto, texto, logos, reflexos, sombra e contato com o chão. Rejeite pele plástica, simetria perfeita, 3D lustroso, bokeh e glow repetidos, interface falsa com texto ilegível e objetos flutuando sem propósito. Se o resultado continuar com aparência automática, troque a fonte visual em vez de “consertar” com mais efeitos.
 
@@ -98,6 +98,22 @@ Trechos ou frames de filmes podem orientar enquadramento e clima. Para uso na ar
 **Aplicação aos exemplos enviados:** a pessoa meditando da capa pode virar uma fotografia real ou um absurdo visual deliberado; a versão intermediária com cara de foto de IA não sustenta o exagero. A agenda do slide 3 funciona melhor como interface desenhada ou captura real simplificada do que como calendário 3D genérico. Os dominós do slide 4 podem ser foto física/licenciada ou diagrama de efeito em cadeia; não exigem outro render polido.
 
 Se usar objeto 3D/recorte, manter horizonte e luz, sombra de contato curta, materiais físicos convincentes e bordas sem halos. Um objeto pode atravessar texto com máscara, desde que não cubra informação essencial. Misturar suportes muda o ritmo quando cada um cumpre uma função.
+
+## Capturas reais antes de interfaces inventadas
+
+Se a ideia é “reunião cancelada”, procurar primeiro uma captura reconhecível de Google Agenda ou outra agenda pertinente: evento cancelado, horário liberado ou uma janela vazia. Para “planilha organizada”, mostrar uma planilha real legível no detalhe escolhido. Usar arquivo fornecido, demonstração pública adequada ou captura da ferramenta em ambiente de teste. Não acessar contas privadas só para obter uma ilustração. Em demonstrações, identificar fora da arte os dados fictícios; não apresentar uma captura como registro real da rotina do autor.
+
+O storyboard deve dizer qual arquivo/URL está disponível e o recorte pretendido. Escrever apenas “screenshot do Google Agenda” não prova que a captura foi obtida. Obtenha e inspecione a fonte antes de finalizar. Se ela não estiver acessível, escolha foto/objeto/typografia pertinentes ou solicite o arquivo quando ele for essencial. Não preencher silenciosamente a lacuna com um cartão inventado de “30 minutos de felicidade”.
+
+**UI desenhada e diagrama precisam ensinar algo:** uma comparação de estados, relação causal ou processo que a imagem não mostra. Não construir uma mini-interface apenas para repetir a headline. Cartões brancos arredondados, três checks teal e rótulos “em dia” não demonstram, por si, satisfação com organização. Aplicar o teste: se o componente só repete a copy, procurar uma imagem mais concreta. Essa regra vale para imagens geradas, SVG, HTML e qualquer outra técnica.
+
+## Imagem central com volume e texto integrado
+
+Uma foto recortada ou objeto único pode ocupar o centro, entre título e fecho, com uma sombra curta e coerente que o assenta no fundo. O texto pode passar atrás de uma borda ou contornar o objeto em um ponto, com máscara controlada; nenhuma palavra essencial pode ficar ilegível. A integração não exige fundo completo gerado nem muitos ícones. Use escala e sobreposição para criar presença e respeite a área segura do texto.
+
+**Exemplo:** uma pilha única de pastas ou um objeto de escritório fotografado pode dialogar com uma palavra grande sobre processos; não precisa de um personagem surreal ou de três checks conectados. Uma foto de almoço com celular ao lado comunica a pausa cotidiana sem um painel explicativo. No caso “adulto no mundo dos negócios”, a capa com bolo/cadeira e a foto de almoço foram consideradas boas pelo usuário; não alterar esses acertos ao corrigir o miolo.
+
+Não converter automaticamente o carrossel inteiro nessa composição central. A sequência pode combinar absurdo visual evidente, fotografia natural, captura autêntica e um objeto gerado mais discreto. A unidade vem de tipografia, margens, cor e tratamento, não da repetição do mesmo tipo de ilustração.
 
 ## Assinatura e cores para Davi
 

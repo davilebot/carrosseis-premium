@@ -55,6 +55,7 @@ Se o editor não fornece controle de camadas, o agente deve separar o que pode p
 9. O próximo slide entrega a expectativa criada?
 10. Há linhas, riscos, sublinhados ou pequenos traços que podem ser removidos sem perder sentido? Remover decoração automática; preservar linhas funcionais de diagramas e setas narrativas.
 11. O miolo repete cenas geradas com o mesmo acabamento artificial? Conferir o plano de origem dos visuais e variar o suporte onde a sequência ficou previsível.
+12. Capturas de ferramentas foram realmente obtidas e inspecionadas? Um cartão desenhado não conta como screenshot. Componentes de UI, ícones e checks explicam uma relação necessária ou só ilustram palavras repetidas?
 
 ## Conferência antes de exportar
 

@@ -1,6 +1,6 @@
 ---
 name: carrosseis-premium
-version: "4.1.0"
+version: "4.2.0"
 description: >
   Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
   ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
@@ -54,6 +54,10 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 
 **IA VISUAL COM INTENÇÃO.** Na capa, o absurdo pode ser tão evidente que vira conceito. No miolo, alternar suportes e preferir imagens naturais ou documentais quando a ideia pede realidade. Uma sequência de pessoas, objetos e cenários gerados com o mesmo acabamento artificial fica previsível, mesmo quando cada imagem é bonita.
 
+**FERRAMENTA REAL, REPRESENTAÇÃO RECONHECÍVEL.** Para ilustrar agenda, planilha ou CRM, priorize captura autêntica da ferramenta, com recorte do detalhe relevante. Não substituir por cartão, dashboard, checklist ou ícones genéricos inventados apenas para preencher a tela. Esse automatismo também ocorre em peças desenhadas por código; a regra vale independentemente da ferramenta usada. Se não houver captura disponível, escolha outro visual pertinente e declare a alternativa no storyboard.
+
+**UMA IMAGEM PODE SUSTENTAR A TELA.** Considere foto ou objeto único integrado ao centro da composição, com volume, sombra de contato e interação pontual com a tipografia. Pode ser imagem real, de banco ou gerada, inclusive sem absurdo extremo. Preserve a leitura e varie o suporte entre telas. Não transforme cada frase em um ícone nem cada item em um check.
+
 **LINHAS TÊM FUNÇÃO.** Não inserir as retas finas entre palavras, tópicos e seções como assinatura automática de “design premium”. Use linha apenas quando ela ajuda a comparar, medir, conectar ou orientar a leitura. O slide 4 aprovado do Mercado Livre é uma escolha daquele caso, não um componente obrigatório.
 
 **O DESIGN SYSTEM É DO CRIADOR, NÃO DA MARCA ESTUDADA.** O amarelo do Mercado Livre serve como contexto, mas não substitui a identidade pessoal do Davi. Quando o perfil Davi for aplicado, base neutra, verde-azulado/teal Echo vibrante pontual e tipografia contemporânea. Ver perfil e referências.
@@ -101,6 +105,7 @@ Para **aprender**: registrar `antes -> feedback -> depois -> por que -> o que ge
 - Encher todas as telas até a borda ou reduzir margens para acomodar uma copy longa.
 - Repetir divisórias finas, riscos e sublinhados sem função de leitura.
 - Gerar uma cena com acabamento de IA para cada slide, sem variar material e intensidade.
+- Usar cartões de interface inventada, checks teal e dashboards genéricos como substitutos automáticos de imagem.
 - Tratar referências como templates que exigem copiar o mesmo objeto.
 - Confundir um rascunho de copy com uma peça pronta para publicação ou declarar verificação que não ocorreu.
 

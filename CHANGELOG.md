@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.2.0
+
+- Capturas reconhecíveis de ferramentas têm prioridade sobre cartões e painéis inventados; a fonte precisa ser realmente obtida.
+- Checks, ícones e mini-interfaces deixam de ser ilustração automática de qualquer tópico.
+- Composição com uma imagem central, volume, sombra e interação tipográfica; IA moderada permitida como objeto pontual.
+- Registro do feedback do carrossel “adulto no mundo dos negócios”, preservando capa e foto de almoço consideradas boas.
+- Três novos cenários de aceitação sobre capturas, checklists e objeto central.
+
 ## 4.1.0
 
 - Área segura obrigatória para todo texto: 10% da largura nas laterais e 8% da altura no topo/rodapé, com conferência na exportação.

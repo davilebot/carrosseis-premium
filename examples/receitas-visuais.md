@@ -135,3 +135,9 @@ As receitas abaixo descrevem **o slide inteiro como uma cena resolvida**. São a
 1. **Imagem do objeto:** materialidade, sombra, luz e contato fazem parecer parte do mundo, não uma figurinha colada.
 2. **Respiro:** texto permanece dentro das margens e blocos de leitura não se encostam. Em algumas telas, reserve espaço vazio generoso e contínuo; a imagem pode romper a borda quando há motivo. Não imponha uma porcentagem fixa de vazio a todo slide.
 3. **Identidade:** a cor contextual de uma empresa fica em seu objeto; a assinatura gráfica e a tipografia podem manter continuidade com o criador.
+
+## Aplicação complementar: uma imagem central com presença
+
+**Tema:** ter sossego porque o processo funciona. **Composição proposta:** headline no alto; uma única foto recortada de pastas organizadas sobre um suporte físico, no centro; sombra de contato suave; uma palavra grande pode passar atrás de uma borda das pastas sem perder leitura; fecho curto abaixo. Teal em uma palavra ou detalhe, sem três checks e sem um painel de status inventado. A imagem pode vir de fotografia própria/licenciada ou de geração de um objeto isolado. Não representa prova de uma operação real. A próxima tela pode usar uma captura real de CRM para demonstrar o processo, mudando de suporte.
+
+Nas receitas de UI acima, desenhar interfaces apenas quando estados e relações precisarem ser demonstrados. Quando a copy fala de uma ferramenta real, priorizar a captura autêntica e o recorte relevante. Um componente genérico que só repete o título não substitui uma imagem.

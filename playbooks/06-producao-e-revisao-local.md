@@ -46,10 +46,16 @@ Se o editor não fornece controle de camadas, o agente deve separar o que pode p
 
 1. A headline ainda e legível no tamanho de celular?
 2. O elemento surrealista comunica a ideia ou só ocupa espaco?
-3. Margens e respiro nas bordas continuam confortaveis?
+3. Todo texto, incluindo numeração e assinatura, está dentro da caixa segura de 10% da largura e 8% da altura? Confira as quatro distâncias no arquivo final; não basta dizer que há respiro.
 4. O slide de conteúdo esta subordinado a explicação?
 5. O sentido da seta/diagrama e claro sem legenda?
 6. A imagem/contexto da marca estudada substituiu o sistema do autor?
 7. Existem textos gerados pela IA com erros de ortografia/numeros?
 8. Slides congelados estao preservados?
 9. O próximo slide entrega a expectativa criada?
+10. Há linhas, riscos, sublinhados ou pequenos traços que podem ser removidos sem perder sentido? Remover decoração automática; preservar linhas funcionais de diagramas e setas narrativas.
+11. O miolo repete cenas geradas com o mesmo acabamento artificial? Conferir o plano de origem dos visuais e variar o suporte onde a sequência ficou previsível.
+
+## Conferência antes de exportar
+
+Registre dimensões do canvas e a caixa segura em pixels. Confira os limites reais das letras, incluindo acentos e aspas, e a assinatura/numeração. Qualquer texto fora da caixa reprova a exportação: recompor antes de entregar. Se a ferramenta não permite medir, sobreponha uma guia temporária e inspecione o arquivo; declare quando a conferência foi apenas visual. Remova as guias da arte entregue. Releia também em tamanho de celular para conferir a distância entre blocos e o peso total da tela.

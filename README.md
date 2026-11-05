@@ -1,4 +1,4 @@
-# Carrosséis Premium V4
+# Carrosséis Premium 4.1
 
 Skill para criar, auditar, comparar e revisar carrosséis com exemplos completos de copy, retenção e direção de arte. O ponto de entrada é [SKILL.md](SKILL.md).
 
@@ -6,7 +6,11 @@ Skill para criar, auditar, comparar e revisar carrosséis com exemplos completos
 
 Clone `https://github.com/davilebot/carrosseis-premium.git` na pasta de skills do seu agente. Mantenha `SKILL.md`, `playbooks/`, `examples/`, `referencias/`, `references/`, `profiles/`, `assets/` e `tests/` juntos. O caminho da pasta de skills depende do ambiente. Invoque `$carrosseis-premium` quando o agente suportar esse formato.
 
-## O que mudou na V4
+## Ajustes da 4.1
+
+Bordas com margem mínima verificável (10% da largura e 8% da altura), controle de divisórias decorativas e planejamento da mistura de fontes visuais para evitar uma sequência inteira com aparência de IA.
+
+## Base da V4
 
 - Mecanismos de identificação e curiosidade com exemplos e recompensa prevista para o slide seguinte.
 - Arquiteturas diferentes para lista, tutorial, história, opinião e case.

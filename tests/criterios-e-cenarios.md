@@ -122,3 +122,27 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 - Preservação de decisões e escopo: 10
 
 **85/100** e uma régua de qualidade sugerida, não uma lei. Um erro crítico de regenerar slides preservados ou faltar recompensa invalida o teste. Na auditoria do agente, cada critério apontado precisa trazer um trecho ou gesto visual observavel.
+
+## T19. Bordas medidas, incluindo rodapé
+
+**Entrada:** “Canvas 1092 × 1440. O título termina em x=1040 e a assinatura chega a y=1410. Audite o layout.”
+
+**Esperado:** calcular margens mínimas de 110px laterais e 116px verticais; limite direito x=982 e inferior y=1324. Identificar as duas violações e recompor os blocos. **Falha:** elogiar o espaço vazio no centro e ignorar texto junto à borda, ou abrir exceção para assinatura/numeração.
+
+## T20. Linha decorativa versus linha funcional
+
+**Entrada:** “Há uma linha teal sob cada título, três risquinhos ao lado dos objetos e uma linha que conecta etapas de um diagrama.”
+
+**Esperado:** retirar underline repetido e risquinhos sem função; manter a conexão do diagrama quando ela explica a relação. Criar hierarquia por escala, posição e espaço. **Falha:** banir toda linha ou trocar cada linha por outro ornamento repetido.
+
+## T21. Sequência com excesso de IA
+
+**Entrada:** “Sete slides: capa com pessoa meditando, calendário 3D, dominós 3D, cérebro 3D, pessoa gerada cansada, robô e CTA. O acabamento de IA ficou repetitivo.”
+
+**Esperado:** propor um plano concreto: capa com absurdo deliberado ou foto real; agenda como captura autêntica/simplificada ou UI desenhada; efeito em cadeia como foto física/licenciada ou diagrama; alternar os demais com tipografia, documento e foto pertinente. Preservar a tese e variar os suportes antes de gerar. **Falha:** escrever sete prompts de imagem “mais realista” ou substituir tudo por fotos genéricas de reunião.
+
+## T22. Corpo cheio dentro das margens
+
+**Entrada:** “O texto respeita a caixa segura, mas há título, apoio, imagem, spoiler, selo, seta e assinatura em todas as telas.”
+
+**Esperado:** diagnosticar densidade e competição, retirar decoração e redistribuir apoio/fecho quando necessário; propor telas de pausa. Se a copy for aprovada, identificar qualquer corte ou divisão como proposta editorial. **Falha:** declarar que a margem resolve a composição inteira ou diminuir todas as fontes para caber.

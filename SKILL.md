@@ -1,6 +1,6 @@
 ---
 name: carrosseis-premium
-version: "4.0.0"
+version: "4.1.0"
 description: >
   Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
   ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
@@ -32,10 +32,10 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 
 1. **Diagnosticar.** Identificar tese, público, formato predominante, promessa, emoção e nível de consciência. Ver `playbooks/01-arquitetura.md` e `examples/casos/04-lista-objecoes.md`.
 2. **Gancho.** Gerar alternativas com mecanismos distintos: identificação ID-1..9, curiosidade CU-1..8 e famílias de moldes. Usar `playbooks/02-ganchos-identificacao.md`, `playbooks/03-ganchos-curiosidade.md` e `examples/banco-80-ganchos.md`. Escrever uma alternativa boa e uma ousada quando a direção não éstiver definida.
-3. **Arquitetura.** Dar a cada slide função, conhecimento entregue, próxima tensão, nível de intensidade visual e tipo de prova/demonstracao. Ver `playbooks/01-arquitetura.md` e `examples/casos/01-mercado-livre.md`.
+3. **Arquitetura.** Dar a cada slide função, conhecimento entregue, próxima tensão, intensidade, espaço de respiro e tipo/origem do recurso visual. Ver `playbooks/01-arquitetura.md` e `examples/casos/01-mercado-livre.md`.
 4. **Reter.** Aplicar re-ganchos, micro-recompensas, contestação do óbvio, reconhecimento e viradas. Ver `playbooks/04-retencao-e-frameworks.md`, `examples/transicoes-antes-depois.md` e `examples/casos/02-concorrente-barato.md`.
-5. **Direção de arte.** Escolher composição pela função, não por capricho. Base: tech, designer, sóbria com personalidade, teal vivo como acento quando perfil Davi, exagero concentrado. Ver `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md` e `profiles/davi.md`.
-6. **Produzir.** Planejar montagem, imagens e texto. Margens são padrão; invasões são exceções intencionais. Preservar textos editáveis sempre que possível. Ver `playbooks/06-producao-e-revisao-local.md`.
+5. **Direção de arte.** Escolher composição pela função, não por capricho. Base: tech, designer, sóbria com personalidade, teal vivo como acento quando perfil Davi, exagero concentrado. Planejar a mistura de fotografia real/licenciada, material próprio, UI, diagramas, tipografia e IA; não gerar uma imagem para cada slide por padrão. Ver `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md` e `profiles/davi.md`.
+6. **Produzir.** Manter área segura para texto e respiro entre blocos. Se a tela não couber, editar ou dividir a copy antes de encolher fonte/margem. Evitar divisórias finas decorativas. Preservar textos editáveis sempre que possível. Ver `playbooks/06-producao-e-revisao-local.md`.
 7. **Auditar.** Toda crítica inclui EXEMPLO DO PROBLEMA e REESCRITA OU COMPOSIÇÃO PRONTA. Ver `tests/criterios-e-cenarios.md` e `examples/diagnosticos-executados.md`.
 
 ## 3. Princípios que mudam as escolhas
@@ -49,6 +49,12 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 **IDENTIFICAÇÃO CONCRETA > EXOTISMO GRATUITO.** Uma meia desnecessária no carrinho gera "já fiz isso" melhor do que um massageador de pé específico. Uma imagem surreal boa precisa carregar uma ideia, não só chamar atenção.
 
 **RITMO > IMPACTO CONSTANTE.** Uma capa muito expressiva fica ainda melhor quando os slides seguintes respiram. Uma segunda ruptura em ponto alto sustenta energia. Não usar a mesma foto gigante em oito telas e não chapar tudo em texto.
+
+**BORDAS COM REGRA, CORPO COM DIREÇÃO.** Todo texto, inclusive numeração e assinatura, deve ficar a no mínimo 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Verifique no arquivo final. No corpo, separe grupos e planeje telas com áreas vazias grandes. Não preencher espaço livre com selo, linha, card, número ou legenda só porque cabe.
+
+**IA VISUAL COM INTENÇÃO.** Na capa, o absurdo pode ser tão evidente que vira conceito. No miolo, alternar suportes e preferir imagens naturais ou documentais quando a ideia pede realidade. Uma sequência de pessoas, objetos e cenários gerados com o mesmo acabamento artificial fica previsível, mesmo quando cada imagem é bonita.
+
+**LINHAS TÊM FUNÇÃO.** Não inserir as retas finas entre palavras, tópicos e seções como assinatura automática de “design premium”. Use linha apenas quando ela ajuda a comparar, medir, conectar ou orientar a leitura. O slide 4 aprovado do Mercado Livre é uma escolha daquele caso, não um componente obrigatório.
 
 **O DESIGN SYSTEM É DO CRIADOR, NÃO DA MARCA ESTUDADA.** O amarelo do Mercado Livre serve como contexto, mas não substitui a identidade pessoal do Davi. Quando o perfil Davi for aplicado, base neutra, verde-azulado/teal Echo vibrante pontual e tipografia contemporânea. Ver perfil e referências.
 
@@ -72,7 +78,7 @@ Para a cronologia completa das decisões do Mercado Livre, inclusive a copy orig
 
 ## 5. Contrato da saída
 
-Para **gerar**: indicar tipo, gancho escolhido, argumento, quadro por slide (copy + função + visual), o que o público descobre em cada passo. Produzir imagens quando solicitadas; **entregar um arquivo individual por slide** sempre que houver arte. Uma montagem geral pode ser prévia adicional, nunca a única entrega. Não acrescentar justificativas longas dentro da arte final.
+Para **gerar**: indicar tipo, gancho escolhido, argumento, quadro por slide (copy + função + visual + origem do visual + respiro previsto), o que o público descobre em cada passo. Produzir imagens quando solicitadas; **entregar um arquivo individual por slide** sempre que houver arte. Uma montagem geral pode ser prévia adicional, nunca a única entrega. Não acrescentar justificativas longas dentro da arte final.
 
 Para **auditar**: usar tabela com `slide / trecho atual / por que não funciona / substituição pronta / motivo da melhora / prioridade`. Crítica sem substituição é incompleta.
 
@@ -92,6 +98,9 @@ Para **aprender**: registrar `antes -> feedback -> depois -> por que -> o que ge
 - Usar imagens de marca contextual como identidade permanente do criador.
 - Achar que minimalismo é tudo pastel ou que tech é neon e circuitos.
 - Encolher texto até caber sem considerar ruptura de slide.
+- Encher todas as telas até a borda ou reduzir margens para acomodar uma copy longa.
+- Repetir divisórias finas, riscos e sublinhados sem função de leitura.
+- Gerar uma cena com acabamento de IA para cada slide, sem variar material e intensidade.
 - Tratar referências como templates que exigem copiar o mesmo objeto.
 - Confundir um rascunho de copy com uma peça pronta para publicação ou declarar verificação que não ocorreu.
 

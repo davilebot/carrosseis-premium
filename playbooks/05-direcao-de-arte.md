@@ -52,14 +52,21 @@ O usuário rejeitou "editorial premium" como nome e estética central. Quer tech
 
 **Por que:** só uma barra e um carrinho não éxplicam dualidade; os estados convertem design em argumento.
 
-## Margens: prioridade nas bordas
+## Área segura obrigatória e respiro do corpo
 
-Em canvas 1080px, ponto de partida 90-120px de margem lateral e 90-130px vertical. O usuário disse explicitamente que a preocupacao maior era o respiro nas bordas; não significa aumentar todos os espacos entre objetos.
+**Regra de borda para qualquer slide visual:** manter todo texto, inclusive título, numeração, fonte e assinatura, a pelo menos **10% da largura** das bordas esquerda e direita e **8% da altura** das bordas superior e inferior. Arredonde para cima: num arquivo de 1092 × 1440px, são **110px laterais e 116px verticais**. Pode usar mais espaço. Só imagem ou forma sem conteúdo legível pode sangrar até a borda. A regra vale para capa, miolo e fechamento.
 
-- **Fraco:** título a 20px da borda, recorte e rodapé amontoados, sem área de descanso.
-- **Feito:** título e corpo dentro da área segura, caixa em perspectiva saindo levemente da margem e gerando profundidade. A regra visual continua legivel.
+Desenhe primeiro a caixa segura e componha dentro dela. Se a headline encostar na caixa, não resolva diminuindo a margem: corte/requebre a frase, ajuste a hierarquia ou divida o conteúdo em dois slides. Não coloque rodapé, paginação ou CTA abaixo da área segura. Confira os limites no arquivo final, não apenas no storyboard.
 
-**Exceção consciente:** ao ter uma caixa gigantesca atravessando o slide, deixar parte do objeto cortar, mas preservar toda a área de texto dentro do grid. O objeto cruza o limite; a copy não.
+No corpo, mantenha distância perceptível entre grupos: título, apoio, cena e fechamento não devem formar uma única massa. Como ponto de partida, separe blocos principais por pelo menos uma altura de linha do texto de apoio; aumente quando mudar de ideia ou de nível de leitura. Planeje telas de pausa com espaço vazio contínuo, não pequenos buracos entre muitos elementos. Em uma sequência de sete telas, procure ao menos duas em que a área vazia seja parte evidente da composição. Reduza ou redistribua copy antes de encolher fonte, objeto ou espaçamento.
+
+**Exemplo observado:** na capa “5 coisas que você precisa parar de fazer se quiser ter paz empreendendo”, o título gigante, a pessoa, o spoiler e a assinatura competem até as bordas. Uma solução é manter a promessa, tirar o spoiler da capa, dar área própria à imagem e recuar numeração/assinatura para dentro da caixa segura. No slide “Confundir agenda cheia com dia produtivo”, a linha teal não cria respiro: retirar a linha e reduzir a massa do calendário abre espaço real. No slide dos dominós, encurtar o texto de apoio ou deslocá-lo para outra tela deixa a cena respirar sem reduzir a margem.
+
+**Exceção consciente:** caixa, pessoa ou objeto podem atravessar a borda em capa/ruptura. Texto legível nunca atravessa. Não usar “é capa” como motivo para cortar a headline.
+
+## Divisórias e gestos gráficos
+
+Não inserir por padrão a reta fina sob o título, o risco entre parágrafos, três traços perto de um objeto ou o sublinhado teal de toda palavra destacada. Esses sinais repetidos fazem a sequência parecer um template. Antes de desenhar uma linha, pergunte: ela conecta itens, indica movimento, mede uma diferença ou separa grupos que se confundiriam? Se a tela continua clara sem ela, retire. Uma linha funcional de gráfico, timeline ou seta narrativa pode permanecer. Varie a ênfase por escala, posição, cor, tipografia e espaço vazio, sem trocar uma decoração repetida por outra.
 
 ## Tipografia: quebrar sem sujar
 
@@ -78,9 +85,19 @@ A tipografia da primeira capa de teste pareceu adequada para aquele conteúdo, m
 | Perda de tempo | Relogio decorativo | 12 abas e tarefas repetidas | Cena reconhecível / UI |
 | Surpresa de 30% | Número isolado sem contexto | "30%" grande com caixa e fragmento de noticia legível | Dado + objeto contextual |
 
-## Receita técnica de imagem integrada
+## Origem das imagens e aparência de IA
 
-Se objeto 3D/recorte: mesmo horizonte e luz; sombra de contato curta onde toca a superficie; sombra projetada consistente; materiais físicos convincentes; bordas sem halos. Um objeto pode atravessar texto com mascara, desde que não cubra informação essencial. Evitar tudo parecer adesivo. Misturar UI, diagramas, foto e tipografia em momentos diferentes cria ritmo.
+Antes de gerar qualquer imagem, faça um plano simples por slide: `função visual | origem | por que esse suporte explica melhor | tratamento`. Considere foto própria, foto de banco com licença adequada, captura autêntica (com dados sensíveis removidos), documento real, UI desenhada, diagrama, tipografia e imagem gerada. A fonte é decisão de direção de arte, não uma etapa automática de geração.
+
+**Padrão para uma sequência:** reserve a IA evidente para a capa ou uma ruptura em que o absurdo seja o argumento visual. No miolo, prefira outros suportes quando a cena não precisa ser impossível. Se houver duas cenas geradas seguidas com a mesma textura de render, substitua uma por foto, interface, documento, diagrama ou uma tela tipográfica. Não usar uma pessoa genérica gerada em cada slide. Uma fotografia real de mesa, calendário, rua, escritório ou objeto pode dar autenticidade, desde que tenha relação concreta com a copy; evitar banco de imagem genérico de aperto de mãos e reuniões sorridentes.
+
+Quando a IA for usada para uma cena plausível, peça linguagem fotográfica observável: luz coerente com o ambiente, materiais comuns, perspectiva e escala críveis, detalhes imperfeitos naturais, fundo sem brilho artificial. Inspecione mãos, rosto, texto, logos, reflexos, sombra e contato com o chão. Rejeite pele plástica, simetria perfeita, 3D lustroso, bokeh e glow repetidos, interface falsa com texto ilegível e objetos flutuando sem propósito. Se o resultado continuar com aparência automática, troque a fonte visual em vez de “consertar” com mais efeitos.
+
+Trechos ou frames de filmes podem orientar enquadramento e clima. Para uso na arte final, confirme que há direito de reprodução; caso contrário, recrie a ideia com material próprio/licenciado. Não tratar um screenshot inventado como documento autêntico.
+
+**Aplicação aos exemplos enviados:** a pessoa meditando da capa pode virar uma fotografia real ou um absurdo visual deliberado; a versão intermediária com cara de foto de IA não sustenta o exagero. A agenda do slide 3 funciona melhor como interface desenhada ou captura real simplificada do que como calendário 3D genérico. Os dominós do slide 4 podem ser foto física/licenciada ou diagrama de efeito em cadeia; não exigem outro render polido.
+
+Se usar objeto 3D/recorte, manter horizonte e luz, sombra de contato curta, materiais físicos convincentes e bordas sem halos. Um objeto pode atravessar texto com máscara, desde que não cubra informação essencial. Misturar suportes muda o ritmo quando cada um cumpre uma função.
 
 ## Assinatura e cores para Davi
 

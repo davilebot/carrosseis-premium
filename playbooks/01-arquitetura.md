@@ -39,6 +39,6 @@ Tese-base: "o cliente desiste quando mudar parece trabalhoso".
 
 ## Mapa obrigatório antes de desenhar
 
-Para cada slide registre: `função`, `copy exata`, `conhecimento entregue`, `conclusão óbvia do leitor`, `nova tensão`, `o que o próximo realmente entrega`, `intensidade visual`, `recurso visual`. **A primeira proposta deve ser um mapa, não oito imagens aleatorias.**
+Para cada slide registre: `função`, `copy exata`, `conhecimento entregue`, `conclusão óbvia do leitor`, `nova tensão`, `o que o próximo realmente entrega`, `intensidade visual`, `recurso visual e origem` (foto própria/licenciada, print autêntico, UI, diagrama, tipografia ou IA) e `respiro previsto`. **A primeira proposta deve ser um mapa, não oito imagens aleatórias.** Em uma sequência de oito telas, planeje algumas telas com espaço negativo generoso; não dê o mesmo peso e a mesma imagem gerada a todas.
 
 Um mapa preenchido encontra-se em `examples/casos/03-agentes-de-ia.md` e nos outros casos completos. Não imponha limites rigidos de palavras: um slide de noticia pode conter mais texto que um manifesto. O critério e absorcao, não uma conta cega de caracteres.

@@ -9,3 +9,5 @@
 4. **Refinar sem regenerar:** "Use carrosseis-premium: no slide 4, troque apenas o fecho por 'você entendeu só a parte óbvia', remova quatro tópicos genéricos e desenhe seta para direita. Mantenha porta, pessoa, título, cores e todos os outros slides." 
 
 5. **Generalizar do Pinterest sem copiar:** "Use carrosseis-premium: pegue a lógica de exagero visual dos pins e crie uma capa nova sobre formulario de onboarding longo, com fonte tech e margens amplas. Não reproduza os rostos nem o lettering das referências."
+
+6. **Auditar bordas e automatismo visual:** “Use carrosseis-premium: canvas 1092 × 1440, título vai até x=1040 e assinatura até y=1410. Há underline teal em todos os títulos e sete imagens com acabamento de render. Calcule a área segura, aponte as violações e proponha um plano de visuais misturando fontes.”

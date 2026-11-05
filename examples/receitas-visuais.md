@@ -1,6 +1,6 @@
 # 16 receitas visuais: copy feita + composição + quando funciona + quando não funciona
 
-As receitas abaixo descrevem **o slide inteiro como uma cena resolvida**. São alternativas para diferentes tipos de história. Não imitar a mesma estética em todas as peças. As artes do Mercado Livre estão em `assets/mercado-livre/`; as demais imagens do pacote privado não foram republicadas aqui. Os estudos textuais preservam as decisões úteis.
+As receitas abaixo descrevem **o slide inteiro como uma cena resolvida**. São alternativas para diferentes tipos de história, não uma lista para preencher cada tela com um render. Planeje a origem e o tratamento de cada visual; varie fotografia real/licenciada, material próprio, interfaces, diagramas, tipografia e IA. As artes do Mercado Livre estão em `assets/mercado-livre/`; as demais imagens do pacote privado não foram republicadas aqui.
 
 ## 01. Hero surreal com objeto em escala absurda
 
@@ -133,5 +133,5 @@ As receitas abaixo descrevem **o slide inteiro como uma cena resolvida**. São a
 ## 3 regras que se tornam claras pelos exemplos
 
 1. **Imagem do objeto:** materialidade, sombra, luz e contato fazem parecer parte do mundo, não uma figurinha colada.
-2. **Respiro:** texto permanece dentro das margens; a imagem pode romper quando há motivo. Não precisa haver 40% de vazio em todo slide.
+2. **Respiro:** texto permanece dentro das margens e blocos de leitura não se encostam. Em algumas telas, reserve espaço vazio generoso e contínuo; a imagem pode romper a borda quando há motivo. Não imponha uma porcentagem fixa de vazio a todo slide.
 3. **Identidade:** a cor contextual de uma empresa fica em seu objeto; a assinatura gráfica e a tipografia podem manter continuidade com o criador.

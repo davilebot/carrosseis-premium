@@ -20,7 +20,7 @@ Fontes da Echo: Bricolage Grotesque e Inter. Para a marca pessoal, experimentar 
 
 **Exemplo de uso da paleta:** um case do Mercado Livre pode ter caixas amarelas e camisa amarela da marca analisada. O fundo, a hierarquia e os acentos gerais permanecem do criador. Em um slide de virada, sublinhar uma palavra-chave com teal; nas outras telas, manter texto grafite/off-white.
 
-**Margens:** muito respiro nas bordas, sem obrigar espaco excessivo entre todos os objetos. Ponto de partida 90-120px laterais em um canvas de 1080px, revisado conforme escala. Invasao de margem somente como escolha artistica clara, especialmente capa/ruptura.
+**Margens obrigatórias:** todo texto, incluindo numeração e assinatura, fica a pelo menos 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Em 1092 × 1440px: arredondar para cima, 110px laterais e 116px verticais. Não reduzir essa área segura para caber copy longa. Dar distância também entre blocos; algumas telas devem ter área vazia ampla e contínua. Objetos podem sangrar em capa/ruptura; texto legível não.
 
 ## Diferenciar-se de Echo
 
@@ -34,3 +34,5 @@ Echo e uma identidade empresarial com ondas e teal forte em muitas superficies. 
 - Neutralizar toda a energia tornando tudo bege pastel.
 - Usar a mesma escada de tipografia e a mesma balanca em qualquer tema.
 - Colar botão "próximo" pequeno quando o usuário pediu seta expressiva para a direita.
+- Repetir retas finas, pequenos traços, selos e sublinhados como decoração em todas as telas.
+- Cobrir o miolo com cenas geradas por IA de aparência parecida. Usar IA no absurdo intencional; no restante, alternar com foto real/licenciada, material próprio, interface, diagrama e tipografia quando servirem melhor à ideia.

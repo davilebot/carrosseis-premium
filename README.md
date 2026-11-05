@@ -1,10 +1,14 @@
-# Carrosséis Premium 4.2
+# Carrosséis Premium 4.3
 
 Skill para criar, auditar, comparar e revisar carrosséis com exemplos completos de copy, retenção e direção de arte. O ponto de entrada é [SKILL.md](SKILL.md).
 
 ## Instalação pelo GitHub
 
 Clone `https://github.com/davilebot/carrosseis-premium.git` na pasta de skills do seu agente. Mantenha `SKILL.md`, `playbooks/`, `examples/`, `referencias/`, `references/`, `profiles/`, `assets/` e `tests/` juntos. O caminho da pasta de skills depende do ambiente. Invoque `$carrosseis-premium` quando o agente suportar esse formato.
+
+## Ajustes da 4.3
+
+Visuais específicos pedidos pelo usuário são obrigatórios: precisam ser obtidos, aplicados e conferidos na exportação. A ausência de captura de agenda/planilha não autoriza substituição por números, pastas ou outra metáfora genérica. A identificação visual é conferida pelo referente reconhecível.
 
 ## Ajustes da 4.2
 

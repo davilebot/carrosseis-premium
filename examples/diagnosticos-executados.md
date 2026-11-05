@@ -61,3 +61,13 @@ Outras telas: sem alteração.
 | 7 — fechamento | Sem crítica específica | Preservar durante revisão pontual |
 
 **Mecanismo aprendido:** variar “IA, UI e tipografia” ainda pode produzir uma sequência automática se UI significar painel inventado e tipografia significar checklist com ícones. Escolher material visual concreto, realmente disponível e reconhecível. Uma única imagem com sombra e volume pode sustentar a tela. IA moderada continua permitida como objeto isolado; não precisa ser sempre absurda nem ser eliminada do miolo.
+
+## Auditoria 10: tirar o card não recuperou a identificação
+
+**Nova versão enviada pelo usuário:** o slide da reunião ficou só com “30 minutos”; a planilha virou pastas com laço; o slide de problema resolvido continuou sem imagem; outra tela ganhou pastas genéricas. **Feedback:** o resultado mudou, mas resolveu pouco o problema principal. As imagens precisam ser específicas e gerar reconhecimento; Google Agenda deveria aparecer de fato.
+
+**Falha da orientação anterior:** permitia substituir uma captura indisponível por foto, objeto ou tipografia sem decisão do usuário. O próprio exemplo de pastas favoreceu uma metáfora genérica de escritório. As propostas da auditoria 9 continuam sendo propostas, não aprovações; esta crítica é posterior e prevalece.
+
+**Correção obrigatória no caso:** slide 2 recebe captura reconhecível do Google Agenda, mostrando agenda/horário livre pertinente; slide 3 recebe planilha real com células e organização visíveis. A frase “30 minutos” pode permanecer como apoio, nunca como único visual substituindo a agenda. Pastas com laço não cumprem o requisito de planilha. Capa e almoço conservam o status positivo anterior. A troca dos demais visuais ainda precisa ser avaliada no resultado; não declarar aprovada a opção de pastas da versão anterior.
+
+**Condição de entrega:** fonte necessária ausente significa pendência visível e pedido concreto de arquivo ou decisão. Avançar no restante sem chamar o conjunto de concluído. Quando a fonte for obtida, aplicá-la e conferir o reconhecimento no slide em tamanho de celular. Mudar apenas o texto da skill não comprova que esse resultado visual foi alcançado.

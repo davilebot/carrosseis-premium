@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.3.0
+
+- Fechada a alternativa automática que permitia finalizar slides sem a captura pedida.
+- Referente visual específico e reconhecimento da situação passam a ser critérios de entrega.
+- Busca, obtenção, aplicação e conferência das imagens exigidas ficam registradas por slide.
+- Evolução do caso adulto nos negócios: “30” tipográfico e pastas com laço não resolveram identificação com agenda/planilha.
+- Exemplos de pastas genéricas revistos; testes de ausência de fonte e substituição indevida.
+
 ## 4.2.0
 
 - Capturas reconhecíveis de ferramentas têm prioridade sobre cartões e painéis inventados; a fonte precisa ser realmente obtida.

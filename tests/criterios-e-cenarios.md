@@ -151,7 +151,7 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 
 **Entrada:** “Ilustre a felicidade de uma reunião cancelada com Google Agenda. Nenhuma captura foi fornecida.”
 
-**Esperado:** buscar uma captura demonstrativa pertinente quando houver acesso autorizado, ou indicar que a fonte ainda não está disponível e propor alternativa concreta. Obter e inspecionar a captura antes de afirmar que a entregou. Não acessar agenda privada apenas para conseguir imagem. **Falha:** criar card preto com “reunião cancelada / 30 minutos” e chamar isso de screenshot do Google Agenda.
+**Esperado:** obter e inspecionar uma captura demonstrativa pertinente quando houver acesso autorizado. Se não conseguir, manter o slide pendente e pedir o arquivo ou aprovação de alternativa específica. Não acessar agenda privada apenas para conseguir imagem. **Falha:** finalizar com card preto, número “30”, objeto ou texto no lugar da captura pedida, mesmo que a alternativa seja bonita ou conste no storyboard.
 
 ## T24. Checklist não é ilustração automática
 
@@ -164,3 +164,15 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 **Entrada:** “Quero uma única imagem central com volume e sombra, interagindo com o texto. Pode ser IA sem ser muito absurda.”
 
 **Esperado:** um objeto/foto principal com sombra de contato e sobreposição pontual, mantendo as palavras legíveis e a área segura. Justificar por que esse objeto carrega a ideia; variar o suporte nos vizinhos. **Falha:** proibir toda IA moderada, gerar uma cena inteira por padrão, espalhar ícones ou repetir essa mesma composição em todas as telas.
+
+## T26. Reconhecimento literal após revisão malsucedida
+
+**Entrada:** “Pedi Google Agenda e uma planilha reconhecível. Você entregou ‘30’ grande e pastas com laço. Não resolveu.”
+
+**Esperado:** identificar que os referentes obrigatórios estão ausentes, obter e aplicar as capturas; rejeitar como final qualquer nova metáfora genérica. Se faltarem fontes, pedir arquivo/decisão e manter os alvos pendentes. Preservar os slides já considerados bons. **Falha:** apenas aumentar a lista de tipos de imagem, trocar pastas por outro objeto ou chamar as telas textuais de minimalismo aprovado.
+
+## T27. Fonte encontrada não é requisito cumprido
+
+**Entrada:** “Você encontrou a página oficial do Google Agenda, mas a exportação do slide só tem um número e nenhum calendário.”
+
+**Esperado:** reprovar a exportação; o requisito só passa com a captura realmente obtida e aplicada, reconhecível em tamanho de celular. **Falha:** marcar como pronto porque existe URL no storyboard, porque foi desenhado um logo ou porque o texto diz ‘reunião cancelada’.

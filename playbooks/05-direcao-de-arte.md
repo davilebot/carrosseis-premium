@@ -2,7 +2,7 @@
 
 ## O objetivo não é editorial. E digital studio com controle
 
-O usuário rejeitou "editorial premium" como nome e estética central. Quer tech, designer, premium, minimalista sem cara de matéria ou revista, e com imagens fortes. **O conceito pode ser extravagante; o layout deve ser preciso.** Capas podem romper, o miolo respira, e rupturas pontuais trazem outra pancada visual. Mas não virar regra que toda tela deve ter um único objeto.
+O usuário rejeitou "editorial premium" como nome e estética central. Quer tech, designer, premium, minimalista sem cara de matéria ou revista, e com imagens fortes. **O conceito pode ser extravagante; o layout deve ser preciso.** A capa exige presença; o miolo também tem imagens e composição fortes. Respiro protege leitura e hierarquia sem reduzir a peça a texto com pequenos objetos. Mas não virar regra que toda tela deve ter um único objeto.
 
 ## Demonstração 1: capa de custo aparente
 
@@ -58,7 +58,7 @@ O usuário rejeitou "editorial premium" como nome e estética central. Quer tech
 
 Desenhe primeiro a caixa segura e componha dentro dela. Se a headline encostar na caixa, não resolva diminuindo a margem: corte/requebre a frase, ajuste a hierarquia ou divida o conteúdo em dois slides. Não coloque rodapé, paginação ou CTA abaixo da área segura. Confira os limites no arquivo final, não apenas no storyboard.
 
-No corpo, mantenha distância perceptível entre grupos: título, apoio, cena e fechamento não devem formar uma única massa. Como ponto de partida, separe blocos principais por pelo menos uma altura de linha do texto de apoio; aumente quando mudar de ideia ou de nível de leitura. Planeje telas de pausa com espaço vazio contínuo, não pequenos buracos entre muitos elementos. Em uma sequência de sete telas, procure ao menos duas em que a área vazia seja parte evidente da composição. Reduza ou redistribua copy antes de encolher fonte, objeto ou espaçamento.
+No corpo, mantenha distância perceptível entre grupos: título, apoio, cena e fechamento não devem formar uma única massa. Como ponto de partida, separe blocos principais por pelo menos uma altura de linha do texto de apoio; aumente quando mudar de ideia ou de nível de leitura. Não imponha quantidade de telas vazias ou de pausa. Use espaço negativo onde ele reforça o foco; outras telas podem ser ocupadas por imagens grandes, com texto protegido. Reduza ou redistribua copy antes de encolher fonte, objeto ou espaçamento.
 
 **Exemplo observado:** na capa “5 coisas que você precisa parar de fazer se quiser ter paz empreendendo”, o título gigante, a pessoa, o spoiler e a assinatura competem até as bordas. Uma solução é manter a promessa, tirar o spoiler da capa, dar área própria à imagem e recuar numeração/assinatura para dentro da caixa segura. No slide “Confundir agenda cheia com dia produtivo”, a linha teal não cria respiro: retirar a linha e reduzir a massa do calendário abre espaço real. No slide dos dominós, encurtar o texto de apoio ou deslocá-lo para outra tela deixa a cena respirar sem reduzir a margem.
 
@@ -67,6 +67,14 @@ No corpo, mantenha distância perceptível entre grupos: título, apoio, cena e 
 ## Divisórias e gestos gráficos
 
 Não inserir por padrão a reta fina sob o título, o risco entre parágrafos, três traços perto de um objeto ou o sublinhado teal de toda palavra destacada. Esses sinais repetidos fazem a sequência parecer um template. Antes de desenhar uma linha, pergunte: ela conecta itens, indica movimento, mede uma diferença ou separa grupos que se confundiriam? Se a tela continua clara sem ela, retire. Uma linha funcional de gráfico, timeline ou seta narrativa pode permanecer. Varie a ênfase por escala, posição, cor, tipografia e espaço vazio, sem trocar uma decoração repetida por outra.
+
+## Presença: escala, cor e acabamento
+
+Em canvas de aproximadamente 1080px de largura, experimente headline de 72–120px e apoio de 32–44px, ajustados à fonte e extensão. Uma palavra ou número protagonista pode superar bastante essa escala. São pontos de partida de composição, não mínimos universais. Título deve dominar com diferença clara de peso e escala; não resolver toda a sequência com o mesmo título moderado e corpo pequeno. Preserve margens e leitura no celular.
+
+Acento vivo precisa ter presença suficiente para ser percebido na montagem. Use teal saturado em palavra, objeto, contraste, área ou dado, com função; ele não precisa se resumir a uma palavra pequena ou linha. Outras cores coerentes podem entrar nos objetos e nos contextos. Base neutra não significa paleta sem energia. Não copiar o amarelo do Mercado Livre para qualquer tema.
+
+Imagem deve parecer parte da cena: escala decidida, recorte intencional, luz e sombra, contato, profundidade e interação com a tipografia quando fizer sentido. Uma foto pequena num retângulo automático ou uma seta isolada sobre um grande vazio não demonstram capricho. Antes de exportar, compare com `examples/calibracao-impacto.md`: há diferença de escala, imagem que explica, ponto de cor e hierarquia tão perceptíveis quanto no benchmark? Corrigir se o conjunto parece uma página de texto com figuras ocasionais.
 
 ## Tipografia: quebrar sem sujar
 
@@ -89,7 +97,9 @@ A tipografia da primeira capa de teste pareceu adequada para aquele conteúdo, m
 
 Antes de gerar qualquer imagem, faça um plano simples por slide: `função visual | origem | por que esse suporte explica melhor | tratamento`. Considere foto própria, foto de banco com licença adequada, captura autêntica (com dados sensíveis removidos), documento real, UI desenhada, diagrama, tipografia e imagem gerada. A fonte é decisão de direção de arte, não uma etapa automática de geração.
 
-**Padrão para uma sequência:** concentre a IA mais evidente na capa ou numa ruptura em que o absurdo seja o argumento visual. No miolo, também cabe um objeto gerado discreto, se ele sustenta a ideia e funciona integrado à composição. Alterne com fotografia própria/de banco, capturas autênticas, documentos, diagramas úteis e tipografia. Se houver duas cenas geradas seguidas com a mesma textura de render, substitua uma por outro suporte. Não usar uma pessoa genérica gerada em cada slide. Uma fotografia real de mesa, calendário, rua, escritório ou objeto pode dar autenticidade, desde que tenha relação concreta com a copy; evitar banco de imagem genérico de aperto de mãos e reuniões sorridentes.
+**Padrão para uma sequência:** planejar imagem ou mecanismo visual para cada tela de desenvolvimento. Surrealismo forte, fotografia, captura e diagrama podem coexistir; escolher pela tese, reconhecimento e apelo. Não existe cota de duas imagens ou obrigação de trocar duas gerações consecutivas por texto. Se os renders parecem iguais, variar conceito, enquadramento, materialidade e composição, ou buscar outra fonte adequada. Mais imagens podem ser necessárias para cumprir o pedido. Uma mesma estética pode dar unidade sem repetir a mesma cena. A capa merece escala e impacto; o miolo deve continuar visualmente trabalhado.
+
+Produzir/obter os assets previstos antes de chamar a arte de concluída. Não desenhar caixas genéricas em lugar de uma imagem só por ser mais rápido. Se uma ferramenta, tempo ou recurso impedir a produção prevista, comunicar a limitação concreta e o que falta, sem redefinir o estilo como “minimalismo”.
 
 Quando a IA for usada para uma cena plausível, peça linguagem fotográfica observável: luz coerente com o ambiente, materiais comuns, perspectiva e escala críveis, detalhes imperfeitos naturais, fundo sem brilho artificial. Inspecione mãos, rosto, texto, logos, reflexos, sombra e contato com o chão. Rejeite pele plástica, simetria perfeita, 3D lustroso, bokeh e glow repetidos, interface falsa com texto ilegível e objetos flutuando sem propósito. Se o resultado continuar com aparência automática, troque a fonte visual em vez de “consertar” com mais efeitos.
 

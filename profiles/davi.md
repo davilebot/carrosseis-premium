@@ -14,13 +14,13 @@ A voz pode usar `vc`, frases curtas, perguntas e pequenas ironias. Não usar tra
 
 ## Identidade visual, em calibracao
 
-O usuário escolheu **Creative Tech Minimalism**, mais próximo de digital design studio do que de revista/editorial. Base neutra, moderna, bem acabada, com teal vibrante em acentos. Mais cor e surrealismo pontual do que uma versão pastel/chapada; menos preto-teal dominante do que o design da Echo. Teal Echo original: `#3BFDE7`, teal de apoio sobre claro `#14D8C0`, `#0A0A0A`, `#F8F9FA`, `#111114`, `#1C1C21`. Esses são tokens de referência, **não um design system pessoal completamente aprovado**.
+O usuário escolheu **Creative Tech Minimalism**, mais próximo de digital design studio do que de revista/editorial. Base neutra, moderna, bem acabada, com teal vibrante em acentos. Presença visual alta, imagens numerosas quando o argumento pede, tipografia forte, acentos vivos e surrealismo expressivo; menos preto-teal dominante do que o design da Echo. Teal Echo original: `#3BFDE7`, teal de apoio sobre claro `#14D8C0`, `#0A0A0A`, `#F8F9FA`, `#111114`, `#1C1C21`. Esses são tokens de referência, **não um design system pessoal completamente aprovado**.
 
 Fontes da Echo: Bricolage Grotesque e Inter. Para a marca pessoal, experimentar Geist, Satoshi, Inter Tight, Space Grotesk, Neue Montreal ou equivalentes disponiveis/licenciados. Não fixar uma familia, pois o usuário não aprovou definitivamente a tipografia da primeira capa.
 
-**Exemplo de uso da paleta:** um case do Mercado Livre pode ter caixas amarelas e camisa amarela da marca analisada. O fundo, a hierarquia e os acentos gerais permanecem do criador. Em um slide de virada, sublinhar uma palavra-chave com teal; nas outras telas, manter texto grafite/off-white.
+**Exemplo de uso da paleta:** um case do Mercado Livre pode ter caixas amarelas e camisa amarela da marca analisada. O fundo, a hierarquia e os acentos gerais permanecem do criador. Usar teal com presença em palavras, números, materiais ou áreas relevantes. Variar escala e composição; não depender de sublinhados nem restringir cor a detalhes minúsculos.
 
-**Margens obrigatórias:** todo texto, incluindo numeração e assinatura, fica a pelo menos 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Em 1092 × 1440px: arredondar para cima, 110px laterais e 116px verticais. Não reduzir essa área segura para caber copy longa. Dar distância também entre blocos; algumas telas devem ter área vazia ampla e contínua. Objetos podem sangrar em capa/ruptura; texto legível não.
+**Margens obrigatórias:** todo texto, incluindo numeração e assinatura, fica a pelo menos 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Em 1092 × 1440px: arredondar para cima, 110px laterais e 116px verticais. Não reduzir essa área segura para caber copy longa. Dar distância entre blocos sem transformar espaço negativo em obrigação de deixar telas passivas. Objetos podem sangrar em capa/ruptura; texto legível não.
 
 ## Diferenciar-se de Echo
 
@@ -35,4 +35,4 @@ Echo e uma identidade empresarial com ondas e teal forte em muitas superficies. 
 - Usar a mesma escada de tipografia e a mesma balanca em qualquer tema.
 - Colar botão "próximo" pequeno quando o usuário pediu seta expressiva para a direita.
 - Repetir retas finas, pequenos traços, selos e sublinhados como decoração em todas as telas.
-- Cobrir o miolo com cenas geradas por IA de aparência parecida. Usar IA no absurdo intencional; no restante, alternar com foto real/licenciada, material próprio, interface, diagrama e tipografia quando servirem melhor à ideia.
+- Cobrir o miolo com cenas geradas por IA de aparência parecida. IA expressiva pode aparecer em vários slides; variar conceito e acabamento e combinar com outras fontes quando elas servirem à ideia. Não impor limite de uma ou duas imagens.

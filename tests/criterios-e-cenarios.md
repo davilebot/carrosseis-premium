@@ -38,7 +38,7 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 
 **Entrada:** "Gerar oito slides sobre a mudança de um limite de compra. Quero três clímax visuais e o resto limpo."
 
-**Esperado:** 1/capa com surrealismo, 3/limiar com transformação física, 7/dado com número protagonista. Slides 2/4/6 didáticos e com margens. **Falha:** oito imagens gigantes ou oito fundos bege sem contraste.
+**Esperado:** 1/capa com surrealismo, 3/limiar com transformação física, 7/dado com número protagonista. Slides 2/4/6 didáticos e com margens. **Falha:** repetir o mesmo choque/composição em todas as telas ou apagar imagens e cor até o conjunto ficar passivo. Imagens grandes podem aparecer em várias telas quando têm função.
 
 ## T07. Design system Davi x tema externo
 
@@ -139,13 +139,13 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 
 **Entrada:** “Sete slides: capa com pessoa meditando, calendário 3D, dominós 3D, cérebro 3D, pessoa gerada cansada, robô e CTA. O acabamento de IA ficou repetitivo.”
 
-**Esperado:** propor um plano concreto: capa com absurdo deliberado ou foto real; agenda como captura autêntica/simplificada ou UI desenhada; efeito em cadeia como foto física/licenciada ou diagrama; alternar os demais com tipografia, documento e foto pertinente. Preservar a tese e variar os suportes antes de gerar. **Falha:** escrever sete prompts de imagem “mais realista” ou substituir tudo por fotos genéricas de reunião.
+**Esperado:** propor um plano concreto: capa com absurdo deliberado ou foto real; agenda como captura autêntica/simplificada ou UI desenhada; efeito em cadeia como foto física/licenciada ou diagrama; trabalhar os demais com documentos, fotografias, diagramas ou novas cenas específicas. Preservar a tese, a presença de imagem e variar conceitos/tratamentos antes de gerar. **Falha:** escrever sete prompts de imagem “mais realista” ou substituir tudo por fotos genéricas de reunião.
 
 ## T22. Corpo cheio dentro das margens
 
 **Entrada:** “O texto respeita a caixa segura, mas há título, apoio, imagem, spoiler, selo, seta e assinatura em todas as telas.”
 
-**Esperado:** diagnosticar densidade e competição, retirar decoração e redistribuir apoio/fecho quando necessário; propor telas de pausa. Se a copy for aprovada, identificar qualquer corte ou divisão como proposta editorial. **Falha:** declarar que a margem resolve a composição inteira ou diminuir todas as fontes para caber.
+**Esperado:** diagnosticar densidade e competição, retirar decoração e redistribuir apoio/fecho quando necessário; compor espaço negativo onde ajuda sem impor telas vazias. Se a copy for aprovada, identificar qualquer corte ou divisão como proposta editorial. **Falha:** declarar que a margem resolve a composição inteira ou diminuir todas as fontes para caber.
 
 ## T23. Agenda reconhecível sem impor uma única técnica
 
@@ -176,3 +176,21 @@ Execute cada entrada com a skill ativada. Marque PASSA apenas quando a resposta 
 **Entrada:** “A captura da agenda é real, mas está pequena, vazia e sem nenhum ponto de interesse. Já um render bonito de pastas não tem relação específica com a experiência.”
 
 **Esperado:** reprovar ambas as soluções como estão, por razões diferentes. Trabalhar foco, recorte, relação temporal, escala ou humor na cena pertinente. Conferir o resultado no celular. **Falha:** aprovar só pela origem real, só pela beleza do render ou só pela existência de uma imagem.
+
+## T28. Produção não termina na segunda imagem
+
+**Entrada:** “Quero sete slides com impacto comparável ao Mercado Livre. Você gerou duas imagens e deixou o resto em texto por comodidade.”
+
+**Esperado:** mapear quais telas de desenvolvimento ainda carecem de imagem/mecanismo específico, produzir ou obter os assets necessários e compor as telas. Não impor quantidade fixa nem apagar imagens para alternar técnicas. **Falha:** defender uma cota de duas gerações, usar o rótulo minimalista para encerrar trabalho incompleto ou apresentar só storyboard como arte pronta.
+
+## T29. Novembro e delegação: ideia não equivale a execução
+
+**Entrada:** “Novembro num retângulo com dois pinos e delegação com seta curva ficaram fracos. Quero imagem participando do argumento.”
+
+**Esperado:** execução que torne passagem de meses e retorno da tarefa visíveis, com escala, materialidade/relação espacial ou diagrama específico expressivo. Realizar a arte se esse for o pedido. **Falha:** só aumentar a cor do retângulo, engrossar a seta ou descrever a mesma solução como mais premium.
+
+## T30. Cor, tipografia e imagem com presença
+
+**Entrada:** “A capa tem conceito, mas o objeto é pequeno, a fonte tímida e o teal aparece num detalhe. Compare com o Mercado Livre.”
+
+**Esperado:** inspecionar a referência visual, recompor com protagonista, escala tipográfica e acento perceptíveis, mantendo texto na área segura. Comparar a arte real, não apenas o plano. **Falha:** concluir que há capricho porque respeita margens; reduzir ainda mais os elementos para criar vazio.

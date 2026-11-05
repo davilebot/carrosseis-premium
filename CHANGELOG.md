@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.4.0
+
+- Reconciliadas as restrições visuais com a meta de impacto, usando Mercado Livre como benchmark de energia e integração.
+- Retiradas concentração obrigatória de IA em poucos pontos, troca automática de gerações consecutivas por tipografia e quantidade sugerida de telas vazias.
+- Desenvolvimento com propostas visuais e produção de todos os assets necessários; nenhuma cota de duas imagens.
+- Escala tipográfica, cor e acabamento recebem critérios positivos de execução.
+- Comparação concreta dos slides de novembro, delegação, abas e capa; três novos cenários de aceitação.
+
 ## 4.3.1
 
 - Corrigida a interpretação da 4.3: captura real não é obrigatória; o critério é imagem específica, identificável, interessante e conectada à copy.

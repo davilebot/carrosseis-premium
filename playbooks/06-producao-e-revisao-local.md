@@ -54,10 +54,12 @@ Se o editor não fornece controle de camadas, o agente deve separar o que pode p
 8. Slides congelados estao preservados?
 9. O próximo slide entrega a expectativa criada?
 10. Há linhas, riscos, sublinhados ou pequenos traços que podem ser removidos sem perder sentido? Remover decoração automática; preservar linhas funcionais de diagramas e setas narrativas.
-11. O miolo repete cenas geradas com o mesmo acabamento artificial? Conferir o plano de origem dos visuais e variar o suporte onde a sequência ficou previsível.
+11. O miolo repete cenas geradas com o mesmo acabamento artificial? Conferir o plano e variar conceito, escala, composição ou suporte onde a sequência ficou previsível; não corrigir retirando imagens indiscriminadamente.
 12. Capturas de ferramentas foram realmente obtidas e inspecionadas? Um cartão desenhado não conta como screenshot. Componentes de UI, ícones e checks explicam uma relação necessária ou só ilustram palavras repetidas?
 13. A imagem conecta texto, reconhecimento e interesse visual? Confrontar o resultado com a situação e o sentimento previstos. Um diagrama específico pode passar; pastas genéricas e checks decorativos não passam só porque ocupam o espaço central.
 
 ## Conferência antes de exportar
 
 Registre dimensões do canvas e a caixa segura em pixels. Confira os limites reais das letras, incluindo acentos e aspas, e a assinatura/numeração. Qualquer texto fora da caixa reprova a exportação: recompor antes de entregar. Se a ferramenta não permite medir, sobreponha uma guia temporária e inspecione o arquivo; declare quando a conferência foi apenas visual. Remova as guias da arte entregue. Releia também em tamanho de celular para conferir a distância entre blocos e o peso total da tela.
+
+14. Todos os assets necessários à direção foram produzidos/obtidos? Ter gerado duas imagens não encerra a produção. A montagem tem presença de imagem, contraste tipográfico, cor e acabamento comparáveis ao benchmark do Mercado Livre? Não aprovar uma peça visualmente pobre só porque respeita margens e evita checks.

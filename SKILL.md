@@ -1,6 +1,6 @@
 ---
 name: carrosseis-premium
-version: "4.3.1"
+version: "4.4.0"
 description: >
   Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
   ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
@@ -34,7 +34,7 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 2. **Gancho.** Gerar alternativas com mecanismos distintos: identificação ID-1..9, curiosidade CU-1..8 e famílias de moldes. Usar `playbooks/02-ganchos-identificacao.md`, `playbooks/03-ganchos-curiosidade.md` e `examples/banco-80-ganchos.md`. Escrever uma alternativa boa e uma ousada quando a direção não éstiver definida.
 3. **Arquitetura.** Dar a cada slide função, conhecimento entregue, próxima tensão, intensidade, espaço de respiro e tipo/origem do recurso visual. Ver `playbooks/01-arquitetura.md` e `examples/casos/01-mercado-livre.md`.
 4. **Reter.** Aplicar re-ganchos, micro-recompensas, contestação do óbvio, reconhecimento e viradas. Ver `playbooks/04-retencao-e-frameworks.md`, `examples/transicoes-antes-depois.md` e `examples/casos/02-concorrente-barato.md`.
-5. **Direção de arte.** Escolher composição pela função, não por capricho. Base: tech, designer, sóbria com personalidade, teal vivo como acento quando perfil Davi, exagero concentrado. Planejar a mistura de fotografia real/licenciada, material próprio, UI, diagramas, tipografia e IA; não gerar uma imagem para cada slide por padrão. Ver `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md` e `profiles/davi.md`.
+5. **Direção de arte.** Escolher composição pela função, não por capricho. Base: tech, designer, premium com impacto, tipografia expressiva e teal vivo quando perfil Davi. Planejar imagens que participem do argumento em todo o desenvolvimento, com fotografia, material próprio, UI, diagramas ou IA. Não há limite de uma ou duas imagens geradas; produzir/obter todas as que a direção exigir. Ver `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md` e `profiles/davi.md`.
 6. **Produzir.** Manter área segura para texto e respiro entre blocos. Se a tela não couber, editar ou dividir a copy antes de encolher fonte/margem. Evitar divisórias finas decorativas. Preservar textos editáveis sempre que possível. Ver `playbooks/06-producao-e-revisao-local.md`.
 7. **Auditar.** Toda crítica inclui EXEMPLO DO PROBLEMA e REESCRITA OU COMPOSIÇÃO PRONTA. Ver `tests/criterios-e-cenarios.md` e `examples/diagnosticos-executados.md`.
 
@@ -48,11 +48,11 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 
 **IDENTIFICAÇÃO CONCRETA > EXOTISMO GRATUITO.** Uma meia desnecessária no carrinho gera "já fiz isso" melhor do que um massageador de pé específico. Uma imagem surreal boa precisa carregar uma ideia, não só chamar atenção.
 
-**RITMO > IMPACTO CONSTANTE.** Uma capa muito expressiva fica ainda melhor quando os slides seguintes respiram. Uma segunda ruptura em ponto alto sustenta energia. Não usar a mesma foto gigante em oito telas e não chapar tudo em texto.
+**RITMO COM PRESENÇA VISUAL.** Cada tela de desenvolvimento precisa de uma proposta visual que participe da ideia. Variar escala, composição, técnica e intensidade sem transformar o miolo em texto pequeno sobre fundo vazio. Tela só tipográfica é escolha expressiva de ritmo, nunca atalho para economizar imagens. Várias imagens grandes e várias rupturas são permitidas; evitar repetir a mesma solução.
 
-**BORDAS COM REGRA, CORPO COM DIREÇÃO.** Todo texto, inclusive numeração e assinatura, deve ficar a no mínimo 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Verifique no arquivo final. No corpo, separe grupos e planeje telas com áreas vazias grandes. Não preencher espaço livre com selo, linha, card, número ou legenda só porque cabe.
+**BORDAS COM REGRA, CORPO COM DIREÇÃO.** Todo texto, inclusive numeração e assinatura, deve ficar a no mínimo 10% da largura das bordas laterais e 8% da altura das bordas superior/inferior. Verifique no arquivo final. No corpo, separe grupos; espaço vazio organiza a hierarquia sem obrigar telas vazias ou objetos pequenos. A imagem pode ocupar grande parte da tela e sangrar; a caixa segura protege o texto. Não preencher espaço livre com selo, linha, card, número ou legenda só porque cabe.
 
-**IA VISUAL COM INTENÇÃO.** Na capa, o absurdo pode ser tão evidente que vira conceito. No miolo, alternar suportes e preferir imagens naturais ou documentais quando a ideia pede realidade. Uma sequência de pessoas, objetos e cenários gerados com o mesmo acabamento artificial fica previsível, mesmo quando cada imagem é bonita.
+**IA VISUAL COM INTENÇÃO E AMBIÇÃO.** Capa com imagem protagonista, conceito forte e exagero quando adequado. O miolo também pode ter surrealismo e imagens expressivas. O problema é repetição genérica e acabamento automático, não quantidade de imagens. Alternar fontes quando isso melhora a peça, sem impor cota de IA ou converter slides em texto para cumprir alternância.
 
 **IMAGEM ESPECÍFICA, IDENTIFICÁVEL E DESEJÁVEL DE OLHAR.** A imagem deve conectar a copy a uma situação que o público reconhece e provocar interesse, humor, alívio, tensão ou surpresa. Não basta representar o substantivo do título. Google Agenda é uma possibilidade, não uma obrigação: captura, foto, diagrama ou imagem gerada podem funcionar quando têm especificidade e força visual. Pastas genéricas perdem o mecanismo que um fluxo “CRM → responsável → próximo passo” consegue mostrar. Evitar a solução óbvia e indiferente. Leia os exemplos e a seleção visual em `playbooks/05-direcao-de-arte.md`.
 
@@ -77,6 +77,8 @@ Isso não significa inventar uma citação real, simular um print como se fosse 
 | Carrossel de história | `examples/casos/05-storytelling-onboarding.md` e `examples/casos/02-concorrente-barato.md` |
 | Auditoria/ajuste local | `examples/diagnosticos-executados.md`, `playbooks/06-producao-e-revisao-local.md`, `tests/criterios-e-cenarios.md` |
 | Estudar as fontes | `referencias/diagnostico-pdf-12-paginas.md`, `referencias/banco-de-criadores.md`, `referencias/instagram-e-pinterest.md` |
+
+Para produzir arte no estilo Davi, leia `examples/calibracao-impacto.md` e inspecione as imagens de referência ali indicadas: a meta de impacto e integração deve orientar a peça antes de aplicar as restrições.
 
 Para a cronologia completa das decisões do Mercado Livre, inclusive a copy original transcrita pelo usuário, leia `references/mercado-livre-evolucao.md`. O estudo V4 em `examples/casos/01-mercado-livre.md` é a síntese operacional. Preserve o que já foi aprovado; não substitua uma frase, slide ou imagem aprovados sem explicitar a mudança.
 

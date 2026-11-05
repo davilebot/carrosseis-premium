@@ -77,3 +77,10 @@ Outras telas: sem alteração.
 **Correção sobre processos:** o fluxo anterior com CRM, responsável e próximo passo era mais específico e identificável que as pastas. A rejeição aos checks/bullets automáticos não significava rejeição de todo diagrama ou representação de processo. Preservar o mecanismo útil e melhorar sua presença visual.
 
 **Regra contextual final:** selecionar pela combinação de situação reconhecível, detalhe específico, emoção e interesse visual. Um recorte real sem foco pode falhar; um render bonito e genérico também. Não impor literalidade nem transformar tudo em surrealismo. Checks, bullets ilustrativos e checklists decorativos não devem voltar como atalho. A capa e o almoço mantêm os acertos anteriores. As novas composições ainda precisam ser avaliadas como arte; o registro textual não equivale a aprovação.
+
+
+## Auditoria 12: restrições produziram uma peça passiva
+
+**Feedback posterior:** comparação de “5 mentiras” com Mercado Livre. O usuário pediu mais imagens, exagero, quebra de padrão, cor, acentos, tipografia forte e capricho. Gostou mais da solução específica das abas com Nome/Modelo de negócio/Projeção; novembro tinha boa ideia e execução ruim; delegação também foi mal executada.
+
+**Correção de direção:** não limitar IA à capa e a uma ruptura; não converter toda crítica de IA em redução de imagens ou slides tipográficos. Repetição genérica deve ser corrigida com melhores conceitos, fontes, escala e composição. O benchmark demonstra nível de energia e imagem participando do conteúdo; não restabelece os KPIs rejeitados ou invalida a margem de texto pedida anteriormente. Ver `examples/calibracao-impacto.md` para comparações e propostas concretas, ainda não aprovadas como arte.

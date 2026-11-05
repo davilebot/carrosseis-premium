@@ -1,5 +1,28 @@
-# Carrosséis Premium
+# Carrosséis Premium V4
 
-Skill para criar, auditar e revisar carrosséis. O ponto de entrada é [SKILL.md](SKILL.md); as referências e imagens ficam nas pastas correspondentes.
+Skill para criar, auditar, comparar e revisar carrosséis com exemplos completos de copy, retenção e direção de arte. O ponto de entrada é [SKILL.md](SKILL.md).
 
-Para instalar, clone este repositório na pasta de skills do seu agente e invoque `$carrosseis-premium`. As imagens do Mercado Livre são referências históricas; consulte o status de aprovação em `references/mercado-livre.md`.
+## Instalação pelo GitHub
+
+Clone `https://github.com/davilebot/carrosseis-premium.git` na pasta de skills do seu agente. Mantenha `SKILL.md`, `playbooks/`, `examples/`, `referencias/`, `references/`, `profiles/`, `assets/` e `tests/` juntos. O caminho da pasta de skills depende do ambiente. Invoque `$carrosseis-premium` quando o agente suportar esse formato.
+
+## O que mudou na V4
+
+- Mecanismos de identificação e curiosidade com exemplos e recompensa prevista para o slide seguinte.
+- Arquiteturas diferentes para lista, tutorial, história, opinião e case.
+- Transições antes/depois, receitas visuais e seis estudos de caso.
+- Perfil visual do Davi separado das regras gerais, com teal Echo como acento e identidade ainda em calibração.
+- Auditoria com substituição concreta e revisão localizada que preserva os demais slides.
+- Cronologia completa das decisões do Mercado Livre preservada em [references/mercado-livre-evolucao.md](references/mercado-livre-evolucao.md).
+
+## Uso
+
+- `Use $carrosseis-premium para gerar um carrossel sobre onboarding lento para o Davi.`
+- `Use $carrosseis-premium para auditar esta copy e propor antes/depois de cada trecho fraco.`
+- `Use $carrosseis-premium para revisar apenas o slide 4; preserve os demais.`
+
+Rascunhos criativos podem partir das premissas do usuário sem interromper a escrita para verificar cada frase. Antes de apresentar uma peça como pronta para publicação, confira afirmações materiais, números e atribuições. A skill registra o status de cada informação fora da arte.
+
+## Imagens e proveniência
+
+O repositório público mantém as artes geradas do estudo Mercado Livre. O PDF, os prints de criadores e outras imagens de terceiros do ZIP privado não foram republicados. As análises textuais permanecem nos arquivos de `referencias/` e `examples/`. Consulte [NOTAS-DE-ORIGEM.md](NOTAS-DE-ORIGEM.md) para limites de observação e direitos de uso.

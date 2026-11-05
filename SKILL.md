@@ -1,85 +1,100 @@
 ---
 name: carrosseis-premium
-description: Criar, auditar ou revisar carrosséis de conteúdo com copy, retenção e direção de arte tech, minimalista e premium. Usar para roteiros, peças visuais ou ajustes pontuais de slides; preservar versões e escolhas aprovadas.
+version: "4.0.0"
+description: >
+  Criar, melhorar, auditar, comparar e revisar carrosséis com copy de alta retenção,
+  ganchos de identificação e curiosidade, arquitetura narrativa, direção de arte
+  creative-tech premium, exemplos reais, receitas visuais e revisão localizada.
+  Usar com tema, pauta, texto, roteiro, slides, fotos, PDF ou referências.
 ---
 
-# Carrosséis premium do Davi
+# Carrosséis Premium V4 | Sistema criativo por exemplos
 
-Crie uma experiência de leitura que tenha uma ideia clara, progressão entre slides e direção de arte orientada pela função de cada tela. A identidade do Davi é sóbria, contemporânea e visual; o teal Echo funciona como acento, não como um banho de cor. Use esta skill para gerar uma peça nova, auditar uma existente ou corrigir um trecho específico.
+**Missão:** produzir carrosséis que gerem vontade de abrir, continuação com recompensa, compreensão e memória. Não é um manual de slogans. Cada técnica vem acompanhada de exemplos executados e explicados. O agente deve GENERALIZAR A MECÂNICA, não copiar o exemplo.
 
-## Modos de uso
+## 0. Como usar esta skill
 
-Interprete estes comandos em linguagem natural, inclusive quando o usuário enviar copy, PDF, imagens ou link:
+- `gerar`: tema, tese ou copy -> roteiro, ganchos, storyboard, composição e, quando solicitadas e possíveis, peças visuais.
+- `auditar`: carrossel existente -> pontos fracos localizados, por que atrapalham e ANTES/DEPOIS concretos.
+- `revisar slide 4`: correções locais; NUNCA regenerar slides 1-3 e 5+ por comodidade.
+- `comparar`: versões A/B -> ganhos, perdas, recursos preserváveis e melhor síntese.
+- `aprender`: feedback -> registrar exemplo ruim/bom, motivo e regra contextual; não impor ao futuro como template obrigatório.
 
-- **`$carrosseis-premium gerar`**: criar roteiro e, quando solicitado ou viável, os slides. Exemplo: “gere um carrossel de 8 slides sobre X para Y, com fontes Z”.
-- **`$carrosseis-premium auditar`**: examinar copy, narrativa, retenção, arte, legibilidade e fidelidade às fontes; apresentar problemas por prioridade e alterações concretas. Não mudar arquivos só para auditar.
-- **`$carrosseis-premium revisar slide N`**: alterar apenas o slide indicado e dependências inevitáveis explicitadas. Exemplo: “revise o slide 4 para gerar curiosidade; preserve os slides 1–3 e 5–8”.
-- **`$carrosseis-premium comparar`**: confrontar versões, indicar o que foi aprovado, perdido, melhorado ou continua incerto; propor uma versão integrada sem sobrescrever a origem.
+Se a pessoa solicitar apenas copy, não gere arte. Se solicitar arte, produza arte, não apenas descrever uma ideia. Entregue um arquivo individual por slide; colagem geral é apenas prévia.
 
-Se o pedido for apenas de copy, entregue copy; se for visual, entregue arte ou especificação executável compatível com as ferramentas disponíveis. Não apresente uma descrição de design como se fosse uma peça pronta.
+## 1. Política editorial escolhida para esta skill
 
-## Contrato de autoria e preservação
+Na etapa de **rascunho criativo**, trabalhe as premissas fornecidas pelo usuário sem interromper a copy para pesquisar cada frase. Não enfraqueça o gancho com ressalvas automáticas. Separe, fora da arte, o que é premissa recebida, hipótese, exemplo fictício e fato verificado. Quando a peça for apresentada como pronta para publicação, ou quando o usuário pedir validação, confira afirmações materiais, números, atribuições e fontes atuais. Se a conferência não for possível, sinalize a pendência sem tratar a afirmação como verificada. O foco criativo continua sendo força, especificidade, provocação, clareza e recompensa narrativa.
 
-1. Separe **texto-fonte**, **versão aprovada**, **proposta** e **hipótese**. Uma imagem gerada, sugestão do assistente ou copy experimental não vira aprovada por existir.
-2. Priorize correções explícitas do usuário sobre versões anteriores. Não substitua frase, slide, conceito visual ou estrutura aprovados sem avisar o que mudará e por quê. Guarde a versão anterior quando houver arquivo editável.
-3. O designer atua como **diretor de arte**: decide composição, ritmo, imagem, metáfora, hierarquia e distribuição visual do texto; pode sugerir divisão/fusão de slides. Mudança de tese, argumento, promessa, conclusão, dado ou CTA estratégico é proposta editorial identificada, nunca alteração silenciosa.
-4. Em revisão pontual, registre o escopo antes de editar. Preserve literalmente os demais slides, salvo reparos mecânicos indispensáveis para exportação; mostre um antes/depois do slide alterado e declare qualquer efeito colateral.
-5. Não invente pesquisa, mecanismo interno de empresa, cálculo, metodologia secreta, resultado ou fonte. Marque fatos que precisam de checagem antes de publicar. Uma aplicação do conceito a outro negócio pode ser hipótese ou analogia, desde que assim identificada.
-6. Quando produzir arte, entregue **um arquivo individual por slide**, em ordem e com nomes estáveis (`slide-01`, `slide-02` etc.). Uma montagem geral pode ser prévia adicional, nunca o único resultado. Mantenha arquivos-fonte e slides anteriores para ajustes locais; ao revisar um slide, exporte só sua nova versão e confira que os demais arquivos não mudaram.
+Isso não significa inventar uma citação real, simular um print como se fosse autêntico, ou declarar que algo foi checado. Quando o material fornecido trouxer premissas, use-as como base de escrita, sem conferência nesta etapa. Se for um caso didático criado do zero, marque-o FORA DA ARTE como exemplo fictício, para não o confundir com história real do autor. **O texto do carrossel pode ser contundente, sem ser tímido ou em cima do muro.** Leia `playbooks/07-escopo-editorial.md` para exemplos de falha e correção.
 
-## Decisão antes de desenhar
+## 2. Rotina de operação (associada a exemplos reais)
 
-1. Identifique público, canal, objetivo, tese, fonte, material aprovado e restrições. Se algo faltar, avance com uma suposição explícita que não mude a tese.
-2. Classifique o carrossel: **lista, educacional/tutorial, storytelling, opinião/provocação, case/análise**, ou mistura. O tipo orienta a solução; não impõe template ou número fixo de slides.
-3. Para cada slide, anote: **função narrativa**, **ideia única**, **o que o leitor já sabe**, **o que ficará em aberto**, **objetivo visual**, **intensidade de 1 a 5**, **recurso gráfico** e **ligação ao próximo**. A função pode ser capa, contexto, demonstração, tensão, virada, ruptura, ponte, síntese ou CTA, em qualquer posição útil.
-4. Faça uma leitura corrida só dos títulos e frases finais. Se a história não avançar, resolva a arquitetura antes de polir frases ou imagens.
-5. Distribua impacto. Capa e rupturas podem ter escala exagerada; slides de explicação devem ser rápidos de entender. Uma imagem forte pode atravessar a margem como exceção deliberada. Nem todo slide precisa ser explosivo.
+1. **Diagnosticar.** Identificar tese, público, formato predominante, promessa, emoção e nível de consciência. Ver `playbooks/01-arquitetura.md` e `examples/casos/04-lista-objecoes.md`.
+2. **Gancho.** Gerar alternativas com mecanismos distintos: identificação ID-1..9, curiosidade CU-1..8 e famílias de moldes. Usar `playbooks/02-ganchos-identificacao.md`, `playbooks/03-ganchos-curiosidade.md` e `examples/banco-80-ganchos.md`. Escrever uma alternativa boa e uma ousada quando a direção não éstiver definida.
+3. **Arquitetura.** Dar a cada slide função, conhecimento entregue, próxima tensão, nível de intensidade visual e tipo de prova/demonstracao. Ver `playbooks/01-arquitetura.md` e `examples/casos/01-mercado-livre.md`.
+4. **Reter.** Aplicar re-ganchos, micro-recompensas, contestação do óbvio, reconhecimento e viradas. Ver `playbooks/04-retencao-e-frameworks.md`, `examples/transicoes-antes-depois.md` e `examples/casos/02-concorrente-barato.md`.
+5. **Direção de arte.** Escolher composição pela função, não por capricho. Base: tech, designer, sóbria com personalidade, teal vivo como acento quando perfil Davi, exagero concentrado. Ver `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md` e `profiles/davi.md`.
+6. **Produzir.** Planejar montagem, imagens e texto. Margens são padrão; invasões são exceções intencionais. Preservar textos editáveis sempre que possível. Ver `playbooks/06-producao-e-revisao-local.md`.
+7. **Auditar.** Toda crítica inclui EXEMPLO DO PROBLEMA e REESCRITA OU COMPOSIÇÃO PRONTA. Ver `tests/criterios-e-cenarios.md` e `examples/diagnosticos-executados.md`.
 
-Leia [copy e retenção](references/copy-retencao.md) para redigir ou auditar a narrativa. Leia [direção de arte](references/direcao-arte.md) para desenhar ou julgar o visual. Leia o [caso Mercado Livre](references/mercado-livre.md) quando o pedido usar esse caso ou precisar de exemplos concretos de escolhas aceitas e rejeitadas.
+## 3. Princípios que mudam as escolhas
 
-Ao modificar esta skill, rode os [cenários de teste](references/testes.md) com pedidos realistas e refine apenas regras que falharem de forma observável.
+**Uma capa e um slide didático não têm o mesmo trabalho.** Capa pode ser surreal; slide didático precisa ser entendido. Uma ruptura no miolo pode fazer tudo ficar grande e estranho por uma tela. O fechamento deve deixar uma frase ou pergunta que sobreviva fora do carrossel.
 
-## Fluxo por modo
+**CURIOSIDADE NÃO É RETER INFORMAÇÃO ALEATORIAMENTE.** O leitor não quer "mais conteúdo". Ele quer resolver uma contradicao, completar uma pergunta ou provar que a sua interpretação não é superficial. No caso estudado em `examples/casos/01-mercado-livre.md`, a frase escolhida não foi "veja a fórmula no próximo slide", mas "Se você acha que a lição aqui é frete grátis vende mais, você entendeu só a parte óbvia". O slide seguinte PAGA essa provocação mostrando a equação de valor.
 
-### Gerar
+**RECOMPENSA AO LONGO DA SEQUENCIA.** Não proibir revelar algo no slide 2 ou 4; oferecer pequenas respostas e abrir outra tensão genuína. O carrossel das cartas entrega a surpresa parcial no slide 4, mas fecha um segundo loop no fim. Ver estudo integral de 14 slides.
 
-1. Inventarie fontes e decisões aprovadas; confira fatos, datas e direitos de uso quando a peça for para publicação.
-2. Monte o mapa de slides com tipo, função, progressão e intensidade. Escolha a quantidade pelo conteúdo; “5 a 7” é uma referência do PDF de origem, não uma regra universal. O caso Mercado Livre tem 8 slides.
-3. Escreva a copy em linguagem natural e específica. Transforme afirmações óbvias em uma consequência, contradição ou aplicação ainda não percebida, e entregue a resposta depois. Evite prometer mais informação sem motivo para virar a tela.
-4. Defina hierarquia, paleta, tipografia, margens e recursos visuais a partir da função de cada slide. Faça imagens trabalharem a favor da ideia, inclusive por sombra, perspectiva e integração ao fundo.
-5. Produza e revise a sequência inteira. Se houver arte, entregue cada slide em arquivo separado, na mesma proporção e área segura; uma prévia conjunta é opcional. Entregue também um mapa curto de função por slide e as fontes/pendências relevantes.
+**IDENTIFICAÇÃO CONCRETA > EXOTISMO GRATUITO.** Uma meia desnecessária no carrinho gera "já fiz isso" melhor do que um massageador de pé específico. Uma imagem surreal boa precisa carregar uma ideia, não só chamar atenção.
 
-### Auditar
+**RITMO > IMPACTO CONSTANTE.** Uma capa muito expressiva fica ainda melhor quando os slides seguintes respiram. Uma segunda ruptura em ponto alto sustenta energia. Não usar a mesma foto gigante em oito telas e não chapar tudo em texto.
 
-Examine a peça em três passadas: (a) promessa, progressão e retenção; (b) clareza, evidência e fidelidade à copy aprovada; (c) ritmo, legibilidade, margens e identidade visual. Relate **slide / problema observável / efeito / correção proposta / prioridade**. Cite o texto ou elemento visual exato. Não recomende trocar tudo quando um ajuste local resolver.
+**O DESIGN SYSTEM É DO CRIADOR, NÃO DA MARCA ESTUDADA.** O amarelo do Mercado Livre serve como contexto, mas não substitui a identidade pessoal do Davi. Quando o perfil Davi for aplicado, base neutra, verde-azulado/teal Echo vibrante pontual e tipografia contemporânea. Ver perfil e referências.
 
-### Revisar pontualmente
+**DESIGNER = DIRETOR DE ARTE.** Escolhe ritmo, composição, metáfora, hierarquia, distribuição visual; pode propor fusao/divisao e redução de copy. Não altera silenciosamente tese, proposta e texto aprovado. Priorizar o menor ajuste eficaz.
 
-Trave os slides fora do escopo. Faça um diagnóstico do papel do slide alvo e das expectativas criadas pelos vizinhos. Gere no máximo algumas opções quando a escolha de copy for material; indique uma recomendação. Aplique só a opção selecionada ou, se o usuário já escolheu, aplique-a diretamente. Compare antes/depois e verifique se o slide seguinte entrega a pergunta aberta sem antecipação nem quebra de fluxo.
+## 4. Quando ler qual arquivo
 
-## Testes de aceitação
+| O que o usuário pede | Leitura obrigatória |
+| --- | --- |
+| Criar a partir de tema | `playbooks/01-arquitetura.md`, `02-ganchos-identificacao.md`, `03-ganchos-curiosidade.md`, `04-retencao-e-frameworks.md` e pelo menos UM caso completo |
+| Criar a partir de copy pronta | `playbooks/05-direcao-de-arte.md`, `examples/receitas-visuais.md`, `playbooks/06-producao-e-revisao-local.md` |
+| Melhorar curiosidade | `examples/transicoes-antes-depois.md` e `examples/casos/01-mercado-livre.md` |
+| Compor capa e imagens | `examples/receitas-visuais.md`, `referencias/pinterest-anotado.md`, `referencias/backlog-formatos.md` |
+| Carrossel de lista | `examples/casos/04-lista-objecoes.md` |
+| Carrossel de ensino | `examples/casos/03-agentes-de-ia.md` |
+| Carrossel de história | `examples/casos/05-storytelling-onboarding.md` e `examples/casos/02-concorrente-barato.md` |
+| Auditoria/ajuste local | `examples/diagnosticos-executados.md`, `playbooks/06-producao-e-revisao-local.md`, `tests/criterios-e-cenarios.md` |
+| Estudar as fontes | `referencias/diagnostico-pdf-12-paginas.md`, `referencias/banco-de-criadores.md`, `referencias/instagram-e-pinterest.md` |
 
-Use estes testes no resultado real, não apenas como perguntas retóricas:
+Para a cronologia completa das decisões do Mercado Livre, inclusive a copy original transcrita pelo usuário, leia `references/mercado-livre-evolucao.md`. O estudo V4 em `examples/casos/01-mercado-livre.md` é a síntese operacional. Preserve o que já foi aprovado; não substitua uma frase, slide ou imagem aprovados sem explicitar a mudança.
 
-- **Teste do “já sei”**: o leitor que conhece o fato superficial encontra uma razão específica para continuar? A frase final cria uma lacuna legítima e o slide seguinte a resolve?
-- **Teste de slide isolado**: título, visual e texto permitem entender sua ideia principal em poucos segundos? Se a imagem for retirada, perde-se uma explicação relevante ou apenas enfeite?
-- **Teste de sequência**: cada tela tem função e mudança perceptível de ritmo? A passagem entre telas é causal, sem listas genéricas ou promessas vazias?
-- **Teste de fidelidade**: compare texto-fonte, escolhas aprovadas e resultado. Toda mudança editorial substancial está identificada? Números, aspas, fontes e atribuições foram verificados?
-- **Teste visual**: veja em tamanho de celular e na proporção de publicação atual. Confira corte, margens, contraste, hierarquia, leitura e consistência. A proporção deve ser confirmada para a plataforma no momento da exportação.
-- **Teste de revisão localizada**: compare hashes ou lado a lado dos slides fora do escopo quando houver arquivos; devem permanecer iguais. Se não for possível comparar, declare o limite da verificação.
-- **Teste de entrega individual**: há exatamente um arquivo visual identificável para cada slide, na ordem correta? É possível substituir apenas o slide pedido sem reconstruir a sequência?
+## 5. Contrato da saída
 
-## Checklist de entrega
+Para **gerar**: indicar tipo, gancho escolhido, argumento, quadro por slide (copy + função + visual), o que o público descobre em cada passo. Produzir imagens quando solicitadas; **entregar um arquivo individual por slide** sempre que houver arte. Uma montagem geral pode ser prévia adicional, nunca a única entrega. Não acrescentar justificativas longas dentro da arte final.
 
-- [ ] Tese e público identificados; fonte e status de aprovação registrados.
-- [ ] Cada slide tem uma função e uma ideia central.
-- [ ] Capa cria atenção sem promessa enganosa; slides intermediários entregam o que foi prometido.
-- [ ] Há um motivo concreto para passar ao próximo slide, especialmente após uma explicação aparentemente óbvia.
-- [ ] A copy não antecipa a resposta, não injeta tópicos desconectados e não inventa dados.
-- [ ] Ritmo alterna ênfase, explicação e respiro conforme a história.
-- [ ] Margens e área segura estão preservadas; invasões são exceções intencionais.
-- [ ] Teal Echo é acento pontual e suficientemente vivo; cores da marca analisada não substituem a identidade do Davi.
-- [ ] Tipografia, imagens e metáforas servem ao conteúdo e seguem legíveis no celular.
-- [ ] Slides aprovados fora do escopo continuam intactos; mudanças e limites foram declarados.
-- [ ] A arte foi entregue em arquivos individuais, numerados e consistentes; a montagem geral, se existir, é apenas uma prévia.
+Para **auditar**: usar tabela com `slide / trecho atual / por que não funciona / substituição pronta / motivo da melhora / prioridade`. Crítica sem substituição é incompleta.
 
+Para **refinar**: listar o que PERMANECE; editar apenas o alvo; mostrar antes/depois. Se o arquivo for uma única imagem, não prometer preservação exata sem verificar.
+
+Para **aprender**: registrar `antes -> feedback -> depois -> por que -> o que generaliza -> status (aprovado, rejeitado, hipótese)`. Ver `examples/casos/01-mercado-livre.md`.
+
+## 6. Antipadroes duros
+
+- Resumir referências em "mais impacto, clareza e curiosidade" sem exemplo executado.
+- Fazer pergunta cuja resposta todo mundo já sabe.
+- Prometer uma metodologia secreta que não será mostrada.
+- Explicar o próximo slide inteiro na seta da transicao.
+- Encher espaco com "mais conversões / mais confiança / maior frequência" sem conexão com narrativa.
+- Trocar meia identificável por objeto excêntrico só por ser original.
+- Refazer oito telas quando o usuário pediu alterar uma.
+- Usar imagens de marca contextual como identidade permanente do criador.
+- Achar que minimalismo é tudo pastel ou que tech é neon e circuitos.
+- Encolher texto até caber sem considerar ruptura de slide.
+- Tratar referências como templates que exigem copiar o mesmo objeto.
+- Confundir um rascunho de copy com uma peça pronta para publicação ou declarar verificação que não ocorreu.
+
+## 7. Pacote público e referências
+
+O texto operacional, os exemplos e a cronologia aprovada estão neste repositório. As artes geradas para o estudo Mercado Livre estão em `assets/`. O PDF, prints e imagens de terceiros presentes no ZIP privado da V4 não foram publicados aqui; as análises textuais permanecem utilizáveis sem esses arquivos. URLs em `referencias/` servem como proveniência ou consulta opcional. Ao usar referências externas, analise a fonte disponível e não afirme ter visto uma imagem que não abriu. Não republicar material de terceiros sem direitos de uso.
